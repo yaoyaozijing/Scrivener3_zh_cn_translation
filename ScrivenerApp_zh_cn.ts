@@ -258,7 +258,7 @@
     </message>
     <message>
         <source>&quot;None&quot; item title:</source>
-        <translation>无项目标题。</translation>
+        <translation>无条目标题。</translation>
     </message>
     <message>
         <source>Image file could not be loaded.
@@ -284,7 +284,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Documents contained inside the templates folder can be used as the basis for new documents by using Project &gt; New From Template. When you select an item in the New From Template menu, a duplicate of the selected template document will be created and inserted into the project as though it were a new document.</source>
-        <translation>通过使用 &quot;项目&quot;&gt;&quot;从模板新建&quot;，模板文件夹中包含的文档可以作为新文档的基础。当你在 &quot;从模板新建 &quot;菜单中选择一个项目时，所选模板文档的副本将被创建并插入项目中，就像它是一个新文档一样。</translation>
+        <translation>通过使用 &quot;项目&quot;&gt;&quot;从模板新建&quot;，模板文件夹中包含的文档可以作为新文档的基础。当你在 &quot;从模板新建 &quot;菜单中选择一个条目时，所选模板文档的副本将被创建并插入项目中，就像它是一个新文档一样。</translation>
     </message>
     <message>
         <source>Makes the footnote marker settings the default for new projects.</source>
@@ -400,7 +400,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Determines the checkbox state for items that have not been explicitly ticked or unticked.</source>
-        <translation>确定未被明确勾选或取消勾选的元素的复选框状态。</translation>
+        <translation>确定未被明确勾选或取消勾选的条目的复选框状态。</translation>
     </message>
     <message>
         <source>Could not open backup folder %1.  Please ensure folder exists or select alternative location</source>
@@ -408,7 +408,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>List Items</source>
-        <translation>列表元素</translation>
+        <translation>列表条目</translation>
     </message>
     <message>
         <source>Choose from disk:</source>
@@ -1975,7 +1975,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>If the title entered here matches the title of one of the compiled documents, the document will be used as the contents page. (This way you can create custom contents pages using document links.) If the entered title does not match any documents, a contents page will be automatically generated with this title at the top and containing an entry for every document that is separated by a page break.</source>
-        <translation>如果这里输入的标题与某个已编译的文档的标题相匹配，该文档将被用作内容页。(如果输入的标题与任何文档不匹配，将自动生成一个内容页，该标题位于顶部，并包含一个由分页符分隔的每个文档的条目。</translation>
+        <translation>如果此处输入的标题与已编译文档之一的标题匹配，则该文档将用作目录页。(通过这种方式，您可以使用文档链接创建自定义目录页。)如果输入的标题与任何文档都不匹配，则系统会自动生成一个目录页，使用该标题作为顶部标题，并包含每个通过分页符分隔的文档。</translation>
     </message>
     <message>
         <source>Table of contents title:</source>
@@ -1983,7 +1983,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Bold top-level items</source>
-        <translation>加粗的顶层元素</translation>
+        <translation>加粗的顶层条目</translation>
     </message>
     <message>
         <source>Omit &quot;landmark&quot; guides</source>
@@ -3340,7 +3340,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Binder items extra indent</source>
-        <translation>活页夹元素额外缩进</translation>
+        <translation>活页夹条目额外缩进</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -3784,7 +3784,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Binder items spacing</source>
-        <translation>活页夹元素间距</translation>
+        <translation>活页夹条目间距</translation>
     </message>
     <message>
         <source>Scrivenings Titles</source>
@@ -3884,7 +3884,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Show progress bars in Quick Search toolbar item</source>
-        <translation>在快速搜索工具栏项目中显示进度条</translation>
+        <translation>在快速搜索工具栏条目中显示进度条</translation>
     </message>
     <message>
         <source>Base page view size on:</source>
@@ -3952,7 +3952,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Outliner items extra indent</source>
-        <translation>大纲元素额外缩进</translation>
+        <translation>大纲条目额外缩进</translation>
     </message>
     <message>
         <source>Minimum fonts size:</source>
@@ -4648,11 +4648,11 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Items with Status</source>
-        <translation>有状态的元素</translation>
+        <translation>有状态的条目</translation>
     </message>
     <message>
         <source>Items Anywhere</source>
-        <translation>任何地方的元素</translation>
+        <translation>任何地方的条目</translation>
     </message>
     <message>
         <source>Included</source>
@@ -4664,7 +4664,7 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Items with Section Type</source>
-        <translation>有章节类型的元素</translation>
+        <translation>有章节类型的条目</translation>
     </message>
     <message>
         <source>Include Text and Notes in Search</source>
@@ -4672,7 +4672,7 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Draft Items Only</source>
-        <translation>仅限草稿元素</translation>
+        <translation>仅限草稿条目</translation>
     </message>
     <message>
         <source>Use Regular Expressions (RegEx)</source>
@@ -4688,7 +4688,7 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Items with Label</source>
-        <translation>有标签的元素</translation>
+        <translation>有标签的条目</translation>
     </message>
     <message>
         <source>Excluded</source>
@@ -4696,7 +4696,7 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Non-Draft Items Only</source>
-        <translation>仅限非草稿元素</translation>
+        <translation>仅限非草稿条目</translation>
     </message>
 </context>
 <context>
@@ -4827,42 +4827,10 @@ Please, specify a different name.</source>
     </message>
 </context>
 <context>
-    <name>SCRDocumentIcons</name>
+    <name>SCRDocumentsIconNames</name>
     <message>
-        <source>TV</source>
-        <translation>TV</translation>
-    </message>
-    <message>
-        <source>Book</source>
-        <translation>图书</translation>
-    </message>
-    <message>
-        <source>Flag</source>
-        <translation>标记</translation>
-    </message>
-    <message>
-        <source>Notes</source>
-        <translation>笔记</translation>
-    </message>
-    <message>
-        <source>To Do</source>
-        <translation>待办事项</translation>
-    </message>
-    <message>
-        <source>Characters</source>
-        <translation>角色</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>位置</translation>
-    </message>
-    <message>
-        <source>Way-Station</source>
-        <translation>车站</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>常规</translation>
+        <source>Blackboard</source>
+        <translation>黑板</translation>
     </message>
 </context>
 <context>
@@ -5070,7 +5038,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Meta data item key not found</source>
-        <translation>未找到元数据项目 Key</translation>
+        <translation>未找到元数据条目值 Key</translation>
     </message>
     <message>
         <source>Do not show this message again</source>
@@ -6480,7 +6448,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Check that you have selected at least one document from the &apos;Contents&apos; pane that contains text, also check you have valid items selected in the  &apos;Formatting&apos; pane.</source>
-        <translation>检查你是否从 &quot;内容 &quot;窗格中选择了至少一个包含文本的文档，也检查你在 &quot;格式 &quot;窗格中选择了有效元素。</translation>
+        <translation>检查你是否从 &quot;内容 &quot;窗格中选择了至少一个包含文本的文档，也检查你在 &quot;格式 &quot;窗格中选择了有效条目。</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -7168,7 +7136,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Return creates new item in list, corkboard and outliner views</source>
-        <translation>对于软木板和大纲视图，回车键用于在列表内创建新项目</translation>
+        <translation>对于软木板和大纲视图，回车键用于在列表内创建新条目</translation>
     </message>
     <message>
         <source>Always creates a new card in freeform mode</source>
@@ -7308,7 +7276,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Collapse auto-expanded outline items after drag and drop</source>
-        <translation>拖放后折叠自动展开的大纲元素</translation>
+        <translation>拖放后折叠自动展开的大纲条目</translation>
     </message>
     <message>
         <source>(&quot;Rewind on pause&quot; must be turned on in the media control bar.)</source>
@@ -11400,7 +11368,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Create folder to hold imported OPML and Mindmap items</source>
-        <translation>创建文件夹来存放导入的OPML和Mindmap元素</translation>
+        <translation>创建文件夹来存放导入的OPML和Mindmap条目</translation>
     </message>
     <message>
         <source>Notes (with Synopsis)</source>
@@ -11756,7 +11724,7 @@ Error: %1</source>
     </message>
     <message>
         <source>Open &amp;Non-Group Items on Right</source>
-        <translation>打开右侧的未分组元素(&amp;N)</translation>
+        <translation>打开右侧的未分组条目(&amp;N)</translation>
     </message>
     <message>
         <source>Continue closing without backing up?</source>
@@ -11768,7 +11736,7 @@ Error: %1</source>
     </message>
     <message>
         <source>Open &amp;Non-Group Items in Other</source>
-        <translation>打开未分组元素于另一个编辑器(&amp;N)</translation>
+        <translation>打开未分组条目于另一个编辑器(&amp;N)</translation>
     </message>
     <message>
         <source>Add F&amp;ootnote</source>
@@ -12270,11 +12238,11 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
     </message>
     <message>
         <source>Open &amp;Non-Group Items on Bottom</source>
-        <translation>打开底部的未分组元素(&amp;N)</translation>
+        <translation>打开底部的未分组条目(&amp;N)</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in the trash permanently?</source>
-        <translation>您确定要永久性的删除废稿内的所有元素吗？</translation>
+        <translation>您确定要永久性的删除废稿内的所有条目吗？</translation>
     </message>
     <message>
         <source>Converting script formats cannot be undone. Please note that batch conversion is destructive and some documents may lose certain formatting and attributes.</source>
@@ -13763,7 +13731,7 @@ You might also try to compile and save to RTF or DOC format to avoid losing your
     </message>
     <message>
         <source>Items left blank will be converted to General Text.</source>
-        <translation>留空的元素将被转换为普通文本。</translation>
+        <translation>留空的条目将被转换为普通文本。</translation>
     </message>
     <message>
         <source>Convert selected documents only</source>
@@ -14405,7 +14373,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Import new non-Draft items into:</source>
-        <translation>导入新的非草稿元素到:</translation>
+        <translation>导入新的非草稿条目到:</translation>
     </message>
     <message>
         <source>Format for external Draft files:</source>
@@ -15228,7 +15196,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Move Item Right</source>
-        <translation>右移项目</translation>
+        <translation>右移条目</translation>
     </message>
     <message>
         <source>&amp;Arrange by Label</source>
@@ -15276,7 +15244,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Open &amp;Non-Group Items in Other</source>
-        <translation>打开未分组元素于其他(&amp;N)</translation>
+        <translation>打开未分组条目于其他(&amp;N)</translation>
     </message>
     <message>
         <source>Change Shortcut &amp;Target...</source>
@@ -15430,7 +15398,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Move Item Up</source>
-        <translation>上移项目</translation>
+        <translation>上移条目</translation>
     </message>
     <message>
         <source>&amp;with Subdocuments and Unique Title</source>
@@ -15554,7 +15522,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Templates Folder has no items</source>
-        <translation>模板文件夹中没有元素</translation>
+        <translation>模板文件夹中没有条目</translation>
     </message>
     <message>
         <source>Format &amp;Bar</source>
@@ -15662,7 +15630,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Show &amp;Invisibles</source>
-        <translation>显示不可见元素(&amp;I)</translation>
+        <translation>显示不可见条目(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Backward in Document History</source>
@@ -15694,7 +15662,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Add Item</source>
-        <translation>添加项目</translation>
+        <translation>添加条目</translation>
     </message>
     <message>
         <source>&amp;Inspector</source>
@@ -15974,11 +15942,11 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Move Item Down</source>
-        <translation>下移项目</translation>
+        <translation>下移条目</translation>
     </message>
     <message>
         <source>Move Item Left</source>
-        <translation>左移项目</translation>
+        <translation>左移条目</translation>
     </message>
     <message>
         <source>Project Replace...</source>
@@ -16249,7 +16217,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>%1 items</source>
-        <translation>%1个元素</translation>
+        <translation>%1个条目</translation>
     </message>
     <message>
         <source>Arrange by label.</source>
@@ -16297,7 +16265,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>%1 of %2 items</source>
-        <translation>%2个元素 | 已选择%1个元素</translation>
+        <translation>%2个条目 | 已选择%1个条目</translation>
     </message>
     <message>
         <source>Display in rows.</source>
@@ -18794,7 +18762,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Back Matter Items</source>
-        <translation>文后页元素</translation>
+        <translation>文后页条目</translation>
     </message>
     <message>
         <source>Lock back matter settings to current file format.</source>
@@ -18822,7 +18790,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Front Matter Items</source>
-        <translation>文前页元素</translation>
+        <translation>文前页条目</translation>
     </message>
     <message>
         <source>Compile:</source>
@@ -18834,7 +18802,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Other Non-Draft Items</source>
-        <translation>其他非草稿元素</translation>
+        <translation>其他非草稿条目</translation>
     </message>
     <message>
         <source>Include subdocuments</source>
@@ -21822,7 +21790,7 @@ All text will use the font face &quot;%1&quot;.
     <name>SCRProjectSettingsSectionMappingPopup</name>
     <message>
         <source>Level numbers describe how deeply indented in the outline structure a section is. For instance, left-most items such as the Draft, Research and Trash folders are at the root level; items directly inside those are at level 1; items that are children of level 1 items are at level 2, and so on.</source>
-        <translation>级数描述了一个章节在大纲结构中的缩进程度。例如，最左边的元素，如草稿、研究和废稿文件夹，处于根级；直接在这些元素内的元素处于第1级；作为第1级元素的子元素处于第2级，以此类推。</translation>
+        <translation>级数描述了一个章节在大纲结构中的缩进程度。例如，最左边的条目，如草稿、研究和废稿文件夹，处于根级；直接在这些条目内的条目处于第1级；作为第1级条目的子条目处于第2级，以此类推。</translation>
     </message>
     <message>
         <source>Content Filter</source>
@@ -22499,8 +22467,8 @@ Add Imported Styles: the above styles will be added to the project without repla
     <message>
         <source>&apos;%1&apos; folder can import only text items.
 &apos;%1&apos; folder cannot import item of type: &apos;%2&apos;</source>
-        <translation>&apos;%1&apos; 文件夹仅可导入文本元素。
-&apos;%1&apos; 文件夹无法导入此类型的元素：&apos;%2&apos;</translation>
+        <translation>&apos;%1&apos; 文件夹仅可导入文本条目。
+&apos;%1&apos; 文件夹无法导入此类型的条目：&apos;%2&apos;</translation>
     </message>
     <message>
         <source>Overwrite Synopses</source>
@@ -22536,7 +22504,7 @@ Add Imported Styles: the above styles will be added to the project without repla
     </message>
     <message>
         <source>Import Template Item</source>
-        <translation>导入模板项目</translation>
+        <translation>导入模板条目</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -22874,7 +22842,7 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Include placeholder titles for untitled items</source>
-        <translation>包括无标题元素的占位符标题</translation>
+        <translation>包括无标题条目的占位符标题</translation>
     </message>
     <message>
         <source>&lt;html&gt;If not all Section Layouts are used by the documents being compiled, those that are in use are displayed in bold.&lt;br/&gt;&lt;br/&gt;This footer bar shows which Section Types in the project use the selected layout.&lt;br/&gt;&lt;br/&gt;To change which Section Layouts are used, click &quot;Assign Section Layouts&quot; back in the main Compile windows.&lt;/html&gt;</source>
@@ -25024,7 +24992,7 @@ You can use external program to convert your image into a different format and t
     </message>
     <message>
         <source>Not Enough Text Items</source>
-        <translation>文本元素不足</translation>
+        <translation>文本条目不足</translation>
     </message>
 </context>
 <context>
@@ -26397,7 +26365,7 @@ Please, try again later or contact us at %3 with the above code, so we get you u
     <name>SCRProjectGuiHelper</name>
     <message>
         <source>Collections show an arbitrary collection of documents that can exist anywhere in the binder. When you create a new item in a collection, it does not yet have a designated place in the project structure. A folder for new items added to each collection is therefore created above the Trash folder in the binder to store these new items until you find a better place for them.</source>
-        <translation>集合显示一个任意的文档集合，它可以存在于活页夹的任何地方。当你在一个集合中创建一个新元素时，它在项目结构中还没有一个指定的位置。因此，在活页夹中的废稿文件夹上方为添加到每个集合中的新元素创建了一个文件夹，用来存放这些新元素，直到你为它们找到一个更好的位置。</translation>
+        <translation>集合显示一个任意的文档集合，它可以存在于活页夹的任何地方。当你在一个集合中创建一个新条目时，它在项目结构中还没有一个指定的位置。因此，在活页夹中的废稿文件夹上方为添加到每个集合中的新条目创建了一个文件夹，用来存放这些新条目，直到你为它们找到一个更好的位置。</translation>
     </message>
     <message>
         <source>Do not show this message again</source>
@@ -26433,7 +26401,7 @@ Also note that the %1 folder does not support media files. Media files should be
     </message>
     <message>
         <source>A folder to store new items added to this collection has been created in the binder.</source>
-        <translation>在活页夹中建立了一个文件夹，用于存放加入该集合的新元素。</translation>
+        <translation>在活页夹中建立了一个文件夹，用于存放加入该集合的新条目。</translation>
     </message>
     <message>
         <source>Import Scrivener Project</source>
@@ -26511,7 +26479,7 @@ Media files can be imported inside the %2 folder.</source>
     <name>SCRProjectStatusSelector</name>
     <message>
         <source>No Status Items Available</source>
-        <translation>没有可用的状态元素</translation>
+        <translation>没有可用的状态条目</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -26811,8 +26779,8 @@ Scrivener为创作长篇手稿而量身定做，它允许你以任何顺序编�
     <message>
         <source>&apos;%1&apos; folder can import only text items.
 &apos;%1&apos; folder cannot import item of type: &apos;%2&apos;</source>
-        <translation>&apos;%1&apos; 文件夹仅可导入文本元素。
-&apos;%1&apos; 文件夹无法导入此类型的元素：&apos;%2&apos;</translation>
+        <translation>&apos;%1&apos; 文件夹仅可导入文本条目。
+&apos;%1&apos; 文件夹无法导入此类型的条目：&apos;%2&apos;</translation>
     </message>
     <message>
         <source>This action cannot be undone. The documents contained in this collection will not be affected, and will remain in place in the binder.  Confirm removal of collection?</source>
@@ -26828,7 +26796,7 @@ Scrivener为创作长篇手稿而量身定做，它允许你以任何顺序编�
     </message>
     <message>
         <source>Import Template Item</source>
-        <translation>导入模板项目</translation>
+        <translation>导入模板条目</translation>
     </message>
     <message>
         <source>Delete &quot;%1&quot; Collection?</source>
@@ -26880,12 +26848,12 @@ The search will then be available as a collection tab
     <message>
         <source>&apos;%1&apos; folder can import only text items.
 &apos;%1&apos; folder cannot import item of type: &apos;%2&apos;</source>
-        <translation>&apos;%1&apos;文件夹只能导入文本元素。
-&apos;%1&apos;文件夹不能导入类型为：&apos;%2&apos;的元素</translation>
+        <translation>&apos;%1&apos;文件夹只能导入文本条目。
+&apos;%1&apos;文件夹不能导入类型为：&apos;%2&apos;的条目</translation>
     </message>
     <message>
         <source>Import Template Item</source>
-        <translation>导入模板项目</translation>
+        <translation>导入模板条目</translation>
     </message>
     <message>
         <source>&quot;%1&quot; contains no subdocuments.</source>
@@ -26897,8 +26865,8 @@ The search will then be available as a collection tab
     <message>
         <source>&apos;%1&apos; folder can import only text items.
 &apos;%1&apos; folder cannot import item of type: &apos;%2&apos;</source>
-        <translation>&apos;%1&apos; 文件夹仅可导入文本元素。
-&apos;%1&apos; 文件夹无法导入此类型的元素：&apos;%2&apos;</translation>
+        <translation>&apos;%1&apos; 文件夹仅可导入文本条目。
+&apos;%1&apos; 文件夹无法导入此类型的条目：&apos;%2&apos;</translation>
     </message>
     <message>
         <source>(Words: %1, Chars: %2)</source>
@@ -26906,7 +26874,7 @@ The search will then be available as a collection tab
     </message>
     <message>
         <source>%1 items</source>
-        <translation>%1个元素</translation>
+        <translation>%1个条目</translation>
     </message>
     <message>
         <source>Show or hide synopses.</source>
@@ -26914,7 +26882,7 @@ The search will then be available as a collection tab
     </message>
     <message>
         <source>Import Template Item</source>
-        <translation>导入模板项目</translation>
+        <translation>导入模板条目</translation>
     </message>
     <message>
         <source>Options</source>
@@ -26926,7 +26894,7 @@ The search will then be available as a collection tab
     </message>
     <message>
         <source>%1 of %2 items</source>
-        <translation>%2个元素 | 已选择%1个元素</translation>
+        <translation>%2个条目 | 已选择%1个条目</translation>
     </message>
     <message>
         <source>New &amp;Text</source>
@@ -28396,7 +28364,7 @@ at: &apos;%1&apos;</source>
     </message>
     <message>
         <source>Not Enough Text Items</source>
-        <translation>没有足够的文本元素</translation>
+        <translation>没有足够的文本条目</translation>
     </message>
 </context>
 <context>
@@ -28593,7 +28561,7 @@ at: &apos;%1&apos;</source>
     <name>SCRTooltipPopup</name>
     <message>
         <source>If the title entered here matches the title of one of the compiled documents, the document will be used as the contents page. (This way you can create custom contents pages using document links.) If the entered title does not match any documents, a contents page will be automatically generated with this title at the top and containing an entry for every document that is separated by a page break.</source>
-        <translation>如果这里输入的标题与某个已编译的文档的标题相匹配，该文档将被用作内容页。(如果输入的标题与任何文档不匹配，将自动生成一个内容页，该标题位于顶部，并包含一个由分页符分隔的每个文档的条目。</translation>
+        <translation>如果此处输入的标题与已编译文档之一的标题匹配，则该文档将用作目录页。(通过这种方式，您可以使用文档链接创建自定义目录页。)如果输入的标题与任何文档都不匹配，则系统会自动生成一个目录页，使用该标题作为顶部标题，并包含每个通过分页符分隔的文档。</translation>
     </message>
     <message>
         <source>Tooltip</source>
