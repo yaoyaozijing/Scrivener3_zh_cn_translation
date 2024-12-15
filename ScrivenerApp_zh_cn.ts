@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>Split using document&apos;s outline structure</source>
-        <translation>使用文件的大纲结构进行拆分</translation>
+        <translation>使用文档的大纲结构进行拆分</translation>
     </message>
     <message>
         <source>Fountain files will be split into scenes.</source>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>Import and Split document failed.</source>
-        <translation>导入并拆分文件失败。</translation>
+        <translation>导入并拆分文档失败。</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -163,7 +163,7 @@
     </message>
     <message>
         <source>The document will be split by finding separtors in the text.</source>
-        <translation>该文件将通过寻找文本中的分隔符进行拆分。</translation>
+        <translation>该文档将通过寻找文本中的分隔符进行拆分。</translation>
     </message>
     <message>
         <source>Remove first lines of text when splitting by outline</source>
@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>This document cannot be imported at the current project location.</source>
-        <translation>该文件在当前项目位置不能被导入。</translation>
+        <translation>该文档在当前项目位置不能被导入。</translation>
     </message>
     <message>
         <source>Sections are separated by:</source>
@@ -284,7 +284,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Documents contained inside the templates folder can be used as the basis for new documents by using Project &gt; New From Template. When you select an item in the New From Template menu, a duplicate of the selected template document will be created and inserted into the project as though it were a new document.</source>
-        <translation>通过使用 &quot;项目&quot;&gt;&quot;从模板新建&quot;，模板文件夹中包含的文档可以作为新文档的基础。当你在 &quot;从模板新建 &quot;菜单中选择一个项目时，所选模板文件的副本将被创建并插入项目中，就像它是一个新文件一样。</translation>
+        <translation>通过使用 &quot;项目&quot;&gt;&quot;从模板新建&quot;，模板文件夹中包含的文档可以作为新文档的基础。当你在 &quot;从模板新建 &quot;菜单中选择一个项目时，所选模板文档的副本将被创建并插入项目中，就像它是一个新文档一样。</translation>
     </message>
     <message>
         <source>Makes the footnote marker settings the default for new projects.</source>
@@ -344,7 +344,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Determine which section types should be used during Compile for documents with &quot;Structure-Based&quot; selection as their section type.</source>
-        <translation>对于选择 &quot;基于结构 &quot;作为章节类型的文件，确定在编译时应使用哪些章节类型。</translation>
+        <translation>对于选择 &quot;基于结构 &quot;作为章节类型的文档，确定在编译时应使用哪些章节类型。</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -448,7 +448,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Use different formatting for new documents in this project:</source>
-        <translation>在这个项目中对新的文件使用不同的格式:</translation>
+        <translation>在这个项目中对新的文档使用不同的格式:</translation>
     </message>
     <message>
         <source>New documents created in the project bookmarks pane of Quick Reference panels will be placed inside this folder by default.</source>
@@ -460,7 +460,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Section types are used by the current Compile format to determine how documents appear when compiled.</source>
-        <translation>章节类型被当前的编译格式用来决定文件在编译时的显示方式。</translation>
+        <translation>章节类型被当前的编译格式用来决定文档在编译时的显示方式。</translation>
     </message>
     <message>
         <source>Special Folders</source>
@@ -689,7 +689,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;b&gt;Separator before sections&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Determines the separating characters inserted before documents that use a different section layout to the preceding document.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Separator between sections&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Determines the separating characters inserted before documents that use the same section layout as the preceding document.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Blank line separator&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;If a blank line separator is set, it will be inserted into any blank lines in the section. This can be used for adding scene break separators when multiple scenes occur within the same document, for instance. (Not available for all file types.)&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;b&gt;章节前的分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前一个文件不同的章节布局的文件前插入的分隔符。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;章节间分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前一文件相同的章节布局的文件前插入的分隔符。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;空行分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;如果设置了空行分隔符，它将被插入到该节的任何空行中。例如，这可用于在同一文件中出现多个场景时添加场景分隔符。(不是对所有文件类型都可用。)&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;b&gt;章节前的分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前一个文档不同的章节布局的文件前插入的分隔符。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;章节间分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前一文件相同的章节布局的文件前插入的分隔符。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;空行分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;如果设置了空行分隔符，它将被插入到该节的任何空行中。例如，这可用于在同一文件中出现多个场景时添加场景分隔符。(不是对所有文件类型都可用。)&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Override separator after:</source>
@@ -701,7 +701,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>&lt;html&gt;Default separators are used for any documents set to compile &quot;As-Is&quot; and for section layouts with &quot;Use default separators&quot; ticked.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Separator before sections&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Determines the separating characters inserted before documents that use a different section layout to the preceding document.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Separator between sections&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Determines the separating characters inserted before documents that use the same section layout as the preceding document.&lt;/html&gt;</source>
-        <translation>&lt;html&gt;默认分隔符用于任何设置为 &quot;按原样 &quot;编译的文件和勾选了 &quot;使用默认分隔符 &quot;的章节布局。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;章节前的分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前面的文件不同的章节布局的文件前插入的分隔符。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;章节之间的分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前一个文件相同的章节布局的文件之前插入的分隔符。</translation>
+        <translation>&lt;html&gt;默认分隔符用于任何设置为 &quot;按原样 &quot;编译的文档和勾选了 &quot;使用默认分隔符 &quot;的章节布局。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;章节前的分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前面的文档不同的章节布局的文档前插入的分隔符。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;章节之间的分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前一个文档相同的章节布局的文档之前插入的分隔符。</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -948,7 +948,7 @@ Resize the dialog to adjust final equation image size.</source>
     </message>
     <message>
         <source>Project metadata may be combined with other metadata defined in the Compile format, and with the contents of any &quot;Metadata&quot; document found at the start of the draft contents.</source>
-        <translation>项目元数据可以与编译格式中定义的其他元数据，以及在草稿内容开头发现的任何 &quot;元数据 &quot;文件的内容相结合。</translation>
+        <translation>项目元数据可以与编译格式中定义的其他元数据，以及在草稿内容开头发现的任何 &quot;元数据 &quot;文档的内容相结合。</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1540,7 +1540,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Shortest document:</source>
-        <translation>最短的文件:</translation>
+        <translation>最短的文档:</translation>
     </message>
     <message>
         <source>Average Paragraph Length:</source>
@@ -1975,7 +1975,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>If the title entered here matches the title of one of the compiled documents, the document will be used as the contents page. (This way you can create custom contents pages using document links.) If the entered title does not match any documents, a contents page will be automatically generated with this title at the top and containing an entry for every document that is separated by a page break.</source>
-        <translation>如果这里输入的标题与某个已编译的文档的标题相匹配，该文档将被用作内容页。(如果输入的标题与任何文件不匹配，将自动生成一个内容页，该标题位于顶部，并包含一个由分页符分隔的每个文件的条目。</translation>
+        <translation>如果这里输入的标题与某个已编译的文档的标题相匹配，该文档将被用作内容页。(如果输入的标题与任何文档不匹配，将自动生成一个内容页，该标题位于顶部，并包含一个由分页符分隔的每个文档的条目。</translation>
     </message>
     <message>
         <source>Table of contents title:</source>
@@ -2424,7 +2424,7 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>&quot;Stitch together adjacent tables&quot; causes any tables that are separated by only empty lines to be merged into a single table, provided that they have the same number of columns. These options are mainly useful for formats which require a single table for the whole document (such as documentary script formats).</source>
-        <translation>缝合相邻的表格 &quot;使任何仅由空行分隔的表格合并成一个表格，只要它们有相同的列数。这些选项主要适用于需要整个文件使用一个表格的格式（如文档剧本格式）。</translation>
+        <translation>缝合相邻的表格 &quot;使任何仅由空行分隔的表格合并成一个表格，只要它们有相同的列数。这些选项主要适用于需要整个文档使用一个表格的格式（如文档剧本格式）。</translation>
     </message>
     <message>
         <source> pixels</source>
@@ -2515,11 +2515,11 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>Document Suffix:</source>
-        <translation>文件后缀:</translation>
+        <translation>文档后缀:</translation>
     </message>
     <message>
         <source>Document suffix:</source>
-        <translation>文件后缀:</translation>
+        <translation>文档后缀:</translation>
     </message>
     <message>
         <source>Scriptwriting</source>
@@ -2535,7 +2535,7 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>After first document</source>
-        <translation>在第一份文件之后</translation>
+        <translation>在第一份文档之后</translation>
     </message>
     <message>
         <source>Use columns</source>
@@ -2551,7 +2551,7 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>Document prefix:</source>
-        <translation>文件前缀:</translation>
+        <translation>文档前缀:</translation>
     </message>
     <message>
         <source>On first page</source>
@@ -2604,7 +2604,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Subject 1, Subject 2</source>
-        <translation>课题1、课题2</translation>
+        <translation>主题1、主题2</translation>
     </message>
     <message>
         <source>Title Page Metadata</source>
@@ -2664,7 +2664,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>&amp;Subjects:</source>
-        <translation>课题(&amp;S):</translation>
+        <translation>主题(&amp;S):</translation>
     </message>
     <message>
         <source>Split chapters at level:</source>
@@ -2680,7 +2680,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Subject:</source>
-        <translation>课题:</translation>
+        <translation>主题:</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
@@ -2712,7 +2712,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Base header level:</source>
-        <translation>底层头层:</translation>
+        <translation>基础标头级别:</translation>
     </message>
     <message>
         <source>Separate different author names with a semi-colon.</source>
@@ -2767,7 +2767,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>First document is title page</source>
-        <translation>第一个文件是标题页</translation>
+        <translation>第一个文档是标题页</translation>
     </message>
     <message>
         <source>Section headers use binder indenting levels</source>
@@ -2783,7 +2783,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Include document synopses as scene summaries</source>
-        <translation>包括作为场景摘要的文件梗概</translation>
+        <translation>包括作为场景摘要的文档概要</translation>
     </message>
     <message>
         <source>Remove highlighting</source>
@@ -2803,11 +2803,11 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Remove trailing whitespace from documents</source>
-        <translation>删除文件中的尾部空白</translation>
+        <translation>删除文档中的尾部空白</translation>
     </message>
     <message>
         <source>Include document titles as section headers</source>
-        <translation>将文件标题作为章节标题</translation>
+        <translation>将文档标题作为章节标题</translation>
     </message>
     <message>
         <source>Downsize and resample images to visible size</source>
@@ -2819,7 +2819,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Convert document links to link back to Scrivener</source>
-        <translation>转换文件链接以链接到Scrivener</translation>
+        <translation>转换文档链接以链接到Scrivener</translation>
     </message>
     <message>
         <source>Append &quot;%1&quot; extension</source>
@@ -2827,7 +2827,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Open compiled document in default application</source>
-        <translation>在默认应用程序中打开编译的文件</translation>
+        <translation>在默认应用程序中打开编译的文档</translation>
     </message>
     <message>
         <source>Escape special characters</source>
@@ -2843,7 +2843,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Include document titles as scene titles</source>
-        <translation>将文件标题作为场景标题包括在内</translation>
+        <translation>将文档标题作为场景标题包括在内</translation>
     </message>
     <message>
         <source>Convert Markdown to rich text in titles and synopses</source>
@@ -2883,7 +2883,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Insert unique document identifiers only</source>
-        <translation>只插入唯一的文件标识符</translation>
+        <translation>只插入唯一的文档标识符</translation>
     </message>
     <message>
         <source>Save KindleGen log file with exported Kindle file</source>
@@ -2903,7 +2903,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Convert document links to HTML links</source>
-        <translation>将文件链接转换为HTML链接</translation>
+        <translation>将文档链接转换为HTML链接</translation>
     </message>
     <message>
         <source>Save source files in a folder with exported Kindle file</source>
@@ -3078,7 +3078,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Document Link</source>
-        <translation>文件链接</translation>
+        <translation>文档链接</translation>
     </message>
     <message>
         <source>Limit search to color:</source>
@@ -3836,7 +3836,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Document group titles</source>
-        <translation>文件组标题</translation>
+        <translation>文档组标题</translation>
     </message>
     <message>
         <source>Compile Settings</source>
@@ -3960,7 +3960,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Document Groups</source>
-        <translation>文件组</translation>
+        <translation>文档组</translation>
     </message>
     <message>
         <source>Comments &amp; Footnotes Area Background</source>
@@ -4577,11 +4577,11 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Excluded Documents</source>
-        <translation>不包括的文件</translation>
+        <translation>排除的文档</translation>
     </message>
     <message>
         <source>Included Documents</source>
-        <translation>包括的文件</translation>
+        <translation>包括的文档</translation>
     </message>
     <message>
         <source>Custom Metadata</source>
@@ -4593,11 +4593,11 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Documents with %1</source>
-        <translation>有%1的文件</translation>
+        <translation>有%1的文档</translation>
     </message>
     <message>
         <source>Documents with Status</source>
-        <translation>有状态的文件</translation>
+        <translation>有状态的文档</translation>
     </message>
     <message>
         <source>Exclude</source>
@@ -4605,11 +4605,11 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Documents in Current Selection</source>
-        <translation>当前选择中的文件</translation>
+        <translation>当前选择中的文档</translation>
     </message>
     <message>
         <source>Documents in Collection</source>
-        <translation>集合内的文件</translation>
+        <translation>集合内的文档</translation>
     </message>
 </context>
 <context>
@@ -4965,7 +4965,7 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Updated Documents</source>
-        <translation>最新文件</translation>
+        <translation>已更新文档</translation>
     </message>
     <message>
         <source>notes</source>
@@ -5152,7 +5152,7 @@ A snapshot was taken of &quot;%1&quot;.</source>
     </message>
     <message>
         <source>Synced Documents</source>
-        <translation>同步的文件</translation>
+        <translation>已同步文档</translation>
     </message>
     <message>
         <source>Webpage Complete (MHT)</source>
@@ -5676,7 +5676,7 @@ Error: &apos;%1&apos;</source>
     </message>
     <message>
         <source>PDF Document via Aspose</source>
-        <translation>通过Aspose制作的PDF文件</translation>
+        <translation>通过Aspose制作的PDF文档</translation>
     </message>
     <message>
         <source>Library Path: </source>
@@ -6440,7 +6440,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Choose which documents should be compiled</source>
-        <translation>选择哪些文件应该被编译</translation>
+        <translation>选择哪些文档应该被编译</translation>
     </message>
     <message>
         <source>Set metadata such as the title and author</source>
@@ -6480,7 +6480,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Check that you have selected at least one document from the &apos;Contents&apos; pane that contains text, also check you have valid items selected in the  &apos;Formatting&apos; pane.</source>
-        <translation>检查你是否从 &quot;内容 &quot;窗格中选择了至少一个包含文本的文件，也检查你在 &quot;格式 &quot;窗格中选择了有效元素。</translation>
+        <translation>检查你是否从 &quot;内容 &quot;窗格中选择了至少一个包含文本的文档，也检查你在 &quot;格式 &quot;窗格中选择了有效元素。</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -6528,7 +6528,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Generating compile document failed. Try compiling to RTF only.</source>
-        <translation>生成编译文件失败。尝试只编译成RTF。</translation>
+        <translation>生成编译文档失败。尝试只编译成RTF。</translation>
     </message>
     <message>
         <source>Delete Compile Format</source>
@@ -9796,7 +9796,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Open Document Link in &amp;Quick Reference Panel</source>
-        <translation>在快速参考面板中打开文件链接(&amp;Q)</translation>
+        <translation>在快速参考面板中打开文档链接(&amp;Q)</translation>
     </message>
     <message>
         <source>Ignore Spelling</source>
@@ -9824,7 +9824,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Select All Documents</source>
-        <translation>选择所有文件</translation>
+        <translation>选择所有文档</translation>
     </message>
     <message>
         <source>Could not export image file: %1</source>
@@ -9912,7 +9912,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Copy All Documents</source>
-        <translation>复制所有文件</translation>
+        <translation>复制所有文档</translation>
     </message>
     <message>
         <source>Edit MathType...</source>
@@ -10147,7 +10147,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Editor &gt; Backward in Document History</source>
-        <translation>编辑 &gt; 在文件历史内后退</translation>
+        <translation>编辑 &gt; 在文档历史内后退</translation>
     </message>
     <message>
         <source>Editor &gt; Scroll to Previous Page</source>
@@ -10211,7 +10211,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Toggle Inspector Project/Document Bookmarks</source>
-        <translation>切换检查器项目/文件书签</translation>
+        <translation>切换检查器项目/文档书签</translation>
     </message>
     <message>
         <source>Text Editing &gt; Typewriter Scrolling</source>
@@ -10515,7 +10515,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Print Current Document...</source>
-        <translation>打印当前文件...</translation>
+        <translation>打印当前文档...</translation>
     </message>
     <message>
         <source>Revision Mode &gt; Second Revision</source>
@@ -11236,7 +11236,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Take snapshots of updated documents</source>
-        <translation>对更新后的文档进行快照</translation>
+        <translation>对已更新文档进行快照</translation>
     </message>
     <message>
         <source>File Format Converters</source>
@@ -11300,7 +11300,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Place documents affected by sync into a &quot;Synced Documents&quot; collection</source>
-        <translation>将受同步影响的文件放入 &quot;已同步文件 &quot;集合中</translation>
+        <translation>将受同步影响的文档放入 &quot;已同步文档 &quot;集合中</translation>
     </message>
     <message>
         <source>Import comments as inline annotations</source>
@@ -11312,7 +11312,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Automatically show the &quot;Synced Documents&quot; collection after a sync</source>
-        <translation>同步后自动显示 &quot;已同步文件 &quot;集合</translation>
+        <translation>同步后自动显示 &quot;已同步文档 &quot;集合</translation>
     </message>
     <message>
         <source>Preserve white space</source>
@@ -11380,7 +11380,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Automatically show the &quot;Updated Documents&quot; collection after a sync</source>
-        <translation>同步后自动显示 &quot;已更新文件 &quot;集合</translation>
+        <translation>同步后自动显示 &quot;已更新文档 &quot;集合</translation>
     </message>
     <message>
         <source>Export Converters...</source>
@@ -11694,7 +11694,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>&amp;Corkboard Selection Affects</source>
-        <translation>软木板影响范围(&amp;C)</translation>
+        <translation>软木板中选中将影响(&amp;C)</translation>
     </message>
     <message>
         <source>Editor &amp;Layout</source>
@@ -11900,7 +11900,7 @@ If this template is for personal use only, you can safely ignore this warning.</
     </message>
     <message>
         <source>&amp;Outliner Selection Affects</source>
-        <translation>大纲影响范围(&amp;O)</translation>
+        <translation>大纲中选中将影响(&amp;O)</translation>
     </message>
     <message>
         <source>Abort Conversion</source>
@@ -12150,7 +12150,7 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
     </message>
     <message>
         <source>Document Link Not Found</source>
-        <translation>未找到文件链接</translation>
+        <translation>未找到文档链接</translation>
     </message>
     <message>
         <source>This project seems to contain personal information. Are you sure you want to save it as a template?</source>
@@ -12278,7 +12278,7 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
     </message>
     <message>
         <source>Converting script formats cannot be undone. Please note that batch conversion is destructive and some documents may lose certain formatting and attributes.</source>
-        <translation>转换剧本格式不能被撤销。请注意，批量转换是破坏性的，一些文件可能会失去某些格式和属性。</translation>
+        <translation>转换剧本格式不能被撤销。请注意，批量转换是破坏性的，一些文档可能会失去某些格式和属性。</translation>
     </message>
     <message>
         <source>&amp;Themes</source>
@@ -12338,7 +12338,7 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
     </message>
     <message>
         <source>The project will be safely closed and its &quot;UI&quot; preference file will be deleted, restoring the project&apos;s appearance options to factory settings. Label tinting, displayed outliner columns, index card size, editor splits, ruler visibility, and all other interface settings will be reset. The project data (documents, notes, metadata, snapshots, etc.) will not be affected. Continue?</source>
-        <translation>该项目将被安全关闭，其 &quot;用户界面 &quot;偏好文件将被删除，将项目的外观选项恢复到出厂设置。标签着色、显示的大纲栏、索引卡大小、编辑器拆分、标尺可见性以及所有其他界面设置将被重置。项目数据（文档、笔记、元数据、快照等）将不会受到影响。继续吗？</translation>
+        <translation>该项目将被安全关闭，其 &quot;用户界面 &quot;首选项文件将被删除，将项目的外观选项恢复到出厂设置。标签着色、显示的大纲栏、索引卡大小、编辑器拆分、标尺可见性以及所有其他界面设置将被重置。项目数据（文档、笔记、元数据、快照等）将不会受到影响。继续吗？</translation>
     </message>
     <message>
         <source>Cannot import Styles from the same project.</source>
@@ -12402,7 +12402,7 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
     </message>
     <message>
         <source>The linked document could not be found - it may have been deleted.</source>
-        <translation>找不到链接的文件 - 可能已经被删除。</translation>
+        <translation>找不到链接的文档 - 可能已经被删除。</translation>
     </message>
     <message>
         <source>View the group&apos;s subdocuments as scrivenings (a composite of the text documents).</source>
@@ -12446,7 +12446,7 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
     </message>
     <message>
         <source>More than one external document is associated with the same document in the project.</source>
-        <translation>在项目中，有一个以上的外部文件与同一个文件相关联。</translation>
+        <translation>在项目中，有一个以上的外部文档与同一个文档相关联。</translation>
     </message>
     <message>
         <source>Revision Mode</source>
@@ -12547,11 +12547,11 @@ This change cannot be undone and you will be asked to create a backup of your pr
     </message>
     <message>
         <source>Tan</source>
-        <translation>茶色</translation>
+        <translation>褐色</translation>
     </message>
     <message>
         <source>Tin</source>
-        <translation>灰色</translation>
+        <translation>锡色</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -12563,27 +12563,27 @@ This change cannot be undone and you will be asked to create a backup of your pr
     </message>
     <message>
         <source>Lime</source>
-        <translation>石灰</translation>
+        <translation>青柠绿色</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation>粉红</translation>
+        <translation>粉红色</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation>Teal</translation>
+        <translation>孔雀蓝色</translation>
     </message>
     <message>
         <source>Zest</source>
-        <translation>Zest</translation>
+        <translation>柑橘黄色</translation>
     </message>
     <message>
         <source>Basic Colors</source>
-        <translation>Basic Colors</translation>
+        <translation>基础颜色</translation>
     </message>
     <message>
         <source>Apple</source>
-        <translation>苹果公司</translation>
+        <translation>苹果色</translation>
     </message>
     <message>
         <source>Black</source>
@@ -12591,11 +12591,11 @@ This change cannot be undone and you will be asked to create a backup of your pr
     </message>
     <message>
         <source>Dante</source>
-        <translation>Dante</translation>
+        <translation>但丁</translation>
     </message>
     <message>
         <source>Frost</source>
-        <translation>Frost</translation>
+        <translation>弗罗斯特</translation>
     </message>
     <message>
         <source>Green</source>
@@ -12603,47 +12603,47 @@ This change cannot be undone and you will be asked to create a backup of your pr
     </message>
     <message>
         <source>Lemon</source>
-        <translation>Lemon</translation>
+        <translation>柠檬黄色</translation>
     </message>
     <message>
         <source>Swift</source>
-        <translation>Swift</translation>
+        <translation>斯威夫特</translation>
     </message>
     <message>
         <source>Copernicus 1</source>
-        <translation>Copernicus 1</translation>
+        <translation>哥白尼 1</translation>
     </message>
     <message>
         <source>Copernicus 2</source>
-        <translation>Copernicus 2</translation>
+        <translation>哥白尼 2</translation>
     </message>
     <message>
         <source>Copernicus 3</source>
-        <translation>Copernicus 3</translation>
+        <translation>哥白尼 3</translation>
     </message>
     <message>
         <source>Copernicus 4</source>
-        <translation>Copernicus 4</translation>
+        <translation>哥白尼 4</translation>
     </message>
     <message>
         <source>Copernicus 5</source>
-        <translation>Copernicus 5</translation>
+        <translation>哥白尼 5</translation>
     </message>
     <message>
         <source>Aristotle</source>
-        <translation>Aristotle</translation>
+        <translation>亚里士多德</translation>
     </message>
     <message>
         <source>Purple Mist</source>
-        <translation>Purple Mist</translation>
+        <translation>紫雾</translation>
     </message>
     <message>
         <source>Zest Sky Blue</source>
-        <translation>Zest Sky Blue</translation>
+        <translation>柑橘天蓝</translation>
     </message>
     <message>
         <source>Zest Magnesium</source>
-        <translation>Zest Magnesium</translation>
+        <translation>柑橘镁色</translation>
     </message>
     <message>
         <source>Magenta</source>
@@ -12651,51 +12651,51 @@ This change cannot be undone and you will be asked to create a backup of your pr
     </message>
     <message>
         <source>Maxwell</source>
-        <translation>Maxwell</translation>
+        <translation>麦克斯韦</translation>
     </message>
     <message>
         <source>Hemingway</source>
-        <translation>Hemingway</translation>
+        <translation>海明威</translation>
     </message>
     <message>
         <source>Banana</source>
-        <translation>黄色标记</translation>
+        <translation>香蕉</translation>
     </message>
     <message>
         <source>Zest Scarlet Red</source>
-        <translation>Zest Scarlet Red</translation>
+        <translation>柑橘血红</translation>
     </message>
     <message>
         <source>Hemingway 1</source>
-        <translation>Hemingway 1</translation>
+        <translation>海明威 1</translation>
     </message>
     <message>
         <source>Hemingway 2</source>
-        <translation>Hemingway 2</translation>
+        <translation>海明威 2</translation>
     </message>
     <message>
         <source>Hemingway 3</source>
-        <translation>Hemingway 3</translation>
+        <translation>海明威 3</translation>
     </message>
     <message>
         <source>Hemingway 4</source>
-        <translation>Hemingway 4</translation>
+        <translation>海明威 4</translation>
     </message>
     <message>
         <source>Hemingway 5</source>
-        <translation>Hemingway 5</translation>
+        <translation>海明威 5</translation>
     </message>
     <message>
         <source>Euclid</source>
-        <translation>Euclid</translation>
+        <translation>欧几里得</translation>
     </message>
     <message>
         <source>Gibbon</source>
-        <translation>Gibbon</translation>
+        <translation>吉本</translation>
     </message>
     <message>
         <source>Zest Butter</source>
-        <translation>Zest Butter</translation>
+        <translation>柑橘黄油</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -12703,11 +12703,11 @@ This change cannot be undone and you will be asked to create a backup of your pr
     </message>
     <message>
         <source>Pascal</source>
-        <translation>Pascal</translation>
+        <translation>毕加索</translation>
     </message>
     <message>
         <source>Orwell</source>
-        <translation>Orwell</translation>
+        <translation>奥威尔</translation>
     </message>
     <message>
         <source>Pink Marker</source>
@@ -12727,7 +12727,7 @@ This change cannot be undone and you will be asked to create a backup of your pr
     </message>
     <message>
         <source>Red Chalk</source>
-        <translation>Red Chalk</translation>
+        <translation>红色粉笔</translation>
     </message>
     <message>
         <source>Honeydew</source>
@@ -12735,283 +12735,283 @@ This change cannot be undone and you will be asked to create a backup of your pr
     </message>
     <message>
         <source>Zest Ocean</source>
-        <translation>Zest Ocean</translation>
+        <translation>柑橘海洋</translation>
     </message>
     <message>
         <source>Cervantes 1</source>
-        <translation>Cervantes 1</translation>
+        <translation>塞万提斯 1</translation>
     </message>
     <message>
         <source>Cervantes 2</source>
-        <translation>Cervantes 2</translation>
+        <translation>塞万提斯 2</translation>
     </message>
     <message>
         <source>Cervantes 3</source>
-        <translation>Cervantes 3</translation>
+        <translation>塞万提斯 3</translation>
     </message>
     <message>
         <source>Cervantes 4</source>
-        <translation>Cervantes 4</translation>
+        <translation>塞万提斯 4</translation>
     </message>
     <message>
         <source>Cervantes 5</source>
-        <translation>Cervantes 5</translation>
+        <translation>塞万提斯 5</translation>
     </message>
     <message>
         <source>Faraday 1</source>
-        <translation>Faraday 1</translation>
+        <translation>法拉第 1</translation>
     </message>
     <message>
         <source>Faraday 2</source>
-        <translation>Faraday 2</translation>
+        <translation>法拉第 2</translation>
     </message>
     <message>
         <source>Faraday 3</source>
-        <translation>Faraday 3</translation>
+        <translation>法拉第 3</translation>
     </message>
     <message>
         <source>Faraday 4</source>
-        <translation>Faraday 4</translation>
+        <translation>法拉第 4</translation>
     </message>
     <message>
         <source>Faraday 5</source>
-        <translation>Faraday 5</translation>
+        <translation>法拉第 5</translation>
     </message>
     <message>
         <source>Pascal 1</source>
-        <translation>Pascal 1</translation>
+        <translation>毕加索 1</translation>
     </message>
     <message>
         <source>Pascal 2</source>
-        <translation>Pascal 2</translation>
+        <translation>毕加索 2</translation>
     </message>
     <message>
         <source>Pascal 3</source>
-        <translation>Pascal 3</translation>
+        <translation>毕加索 3</translation>
     </message>
     <message>
         <source>Pascal 4</source>
-        <translation>Pascal 4</translation>
+        <translation>毕加索 4</translation>
     </message>
     <message>
         <source>Pascal 5</source>
-        <translation>Pascal 5</translation>
+        <translation>毕加索 5</translation>
     </message>
     <message>
         <source>Chaucer 1</source>
-        <translation>Chaucer 1</translation>
+        <translation>乔叟 1</translation>
     </message>
     <message>
         <source>Chaucer 2</source>
-        <translation>Chaucer 2</translation>
+        <translation>乔叟 2</translation>
     </message>
     <message>
         <source>Chaucer 3</source>
-        <translation>Chaucer 3</translation>
+        <translation>乔叟 3</translation>
     </message>
     <message>
         <source>Chaucer 4</source>
-        <translation>Chaucer 4</translation>
+        <translation>乔叟 4</translation>
     </message>
     <message>
         <source>Chaucer 5</source>
-        <translation>Chaucer 5</translation>
+        <translation>乔叟 5</translation>
     </message>
     <message>
         <source>Descartes 1</source>
-        <translation>Descartes 1</translation>
+        <translation>笛卡尔 1</translation>
     </message>
     <message>
         <source>Descartes 2</source>
-        <translation>Descartes 2</translation>
+        <translation>笛卡尔 2</translation>
     </message>
     <message>
         <source>Descartes 3</source>
-        <translation>Descartes 3</translation>
+        <translation>笛卡尔 3</translation>
     </message>
     <message>
         <source>Descartes 4</source>
-        <translation>Descartes 4</translation>
+        <translation>笛卡尔 4</translation>
     </message>
     <message>
         <source>Descartes 5</source>
-        <translation>Descartes 5</translation>
+        <translation>笛卡尔 5</translation>
     </message>
     <message>
         <source>Zest Chocolate</source>
-        <translation>Zest Chocolate</translation>
+        <translation>柑橘巧克力</translation>
     </message>
     <message>
         <source>Descartes</source>
-        <translation>Descartes</translation>
+        <translation>笛卡尔</translation>
     </message>
     <message>
         <source>Newton&apos;s Apple</source>
-        <translation>Newton&apos;s Apple</translation>
+        <translation>牛顿的苹果</translation>
     </message>
     <message>
         <source>Cervantes</source>
-        <translation>Cervantes</translation>
+        <translation>塞万提斯</translation>
     </message>
     <message>
         <source>Orwell 1</source>
-        <translation>Orwell 1</translation>
+        <translation>奥威尔 1</translation>
     </message>
     <message>
         <source>Orwell 2</source>
-        <translation>Orwell 2</translation>
+        <translation>奥威尔 2</translation>
     </message>
     <message>
         <source>Orwell 3</source>
-        <translation>Orwell 3</translation>
+        <translation>奥威尔 3</translation>
     </message>
     <message>
         <source>Orwell 4</source>
-        <translation>Orwell 4</translation>
+        <translation>奥威尔 4</translation>
     </message>
     <message>
         <source>Orwell 5</source>
-        <translation>Orwell 5</translation>
+        <translation>奥威尔 5</translation>
     </message>
     <message>
         <source>Chaucer</source>
-        <translation>Chaucer</translation>
+        <translation>乔叟</translation>
     </message>
     <message>
         <source>Tacitus 1</source>
-        <translation>Tacitus 1</translation>
+        <translation>塔西佗 1</translation>
     </message>
     <message>
         <source>Tacitus 2</source>
-        <translation>Tacitus 2</translation>
+        <translation>塔西佗 2</translation>
     </message>
     <message>
         <source>Tacitus 3</source>
-        <translation>Tacitus 3</translation>
+        <translation>塔西佗 3</translation>
     </message>
     <message>
         <source>Tacitus 4</source>
-        <translation>Tacitus 4</translation>
+        <translation>塔西佗 4</translation>
     </message>
     <message>
         <source>Tacitus 5</source>
-        <translation>Tacitus 5</translation>
+        <translation>塔西佗 5</translation>
     </message>
     <message>
         <source>Zest Aqua</source>
-        <translation>Zest Aqua</translation>
+        <translation>柑橘水蓝</translation>
     </message>
     <message>
         <source>Zest Plum</source>
-        <translation>Zest Plum</translation>
+        <translation>柑橘李子</translation>
     </message>
     <message>
         <source>Zest Lime</source>
-        <translation>Zest Lime</translation>
+        <translation>柑橘青柠</translation>
     </message>
     <message>
         <source>Tacitus</source>
-        <translation>Tacitus</translation>
+        <translation>塔西佗</translation>
     </message>
     <message>
         <source>Dante 1</source>
-        <translation>Dante 1</translation>
+        <translation>但丁 1</translation>
     </message>
     <message>
         <source>Dante 2</source>
-        <translation>Dante 2</translation>
+        <translation>但丁 2</translation>
     </message>
     <message>
         <source>Dante 3</source>
-        <translation>Dante 3</translation>
+        <translation>但丁 3</translation>
     </message>
     <message>
         <source>Dante 4</source>
-        <translation>Dante 4</translation>
+        <translation>但丁 4</translation>
     </message>
     <message>
         <source>Dante 5</source>
-        <translation>Dante 5</translation>
+        <translation>但丁 5</translation>
     </message>
     <message>
         <source>Cantaloupe</source>
-        <translation>橙色标记</translation>
+        <translation>蜜瓜</translation>
     </message>
     <message>
         <source>Swift 1</source>
-        <translation>Swift 1</translation>
+        <translation>斯威夫特 1</translation>
     </message>
     <message>
         <source>Swift 2</source>
-        <translation>Swift 2</translation>
+        <translation>斯威夫特 2</translation>
     </message>
     <message>
         <source>Swift 3</source>
-        <translation>Swift 3</translation>
+        <translation>斯威夫特 3</translation>
     </message>
     <message>
         <source>Swift 4</source>
-        <translation>Swift 4</translation>
+        <translation>斯威夫特 4</translation>
     </message>
     <message>
         <source>Swift 5</source>
-        <translation>Swift 5</translation>
+        <translation>斯威夫特 5</translation>
     </message>
     <message>
         <source>Aristotle 1</source>
-        <translation>Aristotle 1</translation>
+        <translation>亚里士多德 1</translation>
     </message>
     <message>
         <source>Aristotle 2</source>
-        <translation>Aristotle 2</translation>
+        <translation>亚里士多德 2</translation>
     </message>
     <message>
         <source>Aristotle 3</source>
-        <translation>Aristotle 3</translation>
+        <translation>亚里士多德 3</translation>
     </message>
     <message>
         <source>Aristotle 4</source>
-        <translation>Aristotle 4</translation>
+        <translation>亚里士多德 4</translation>
     </message>
     <message>
         <source>Aristotle 5</source>
-        <translation>Aristotle 5</translation>
+        <translation>亚里士多德 5</translation>
     </message>
     <message>
         <source>Zest Orange Zest</source>
-        <translation>Zest Orange Zest</translation>
+        <translation>柑橘橙皮</translation>
     </message>
     <message>
         <source>Blue Mist</source>
-        <translation>湖蓝色</translation>
+        <translation>蓝雾</translation>
     </message>
     <message>
         <source>Euclid 1</source>
-        <translation>Euclid 1</translation>
+        <translation>欧几里得 1</translation>
     </message>
     <message>
         <source>Euclid 2</source>
-        <translation>Euclid 2</translation>
+        <translation>欧几里得 2</translation>
     </message>
     <message>
         <source>Euclid 3</source>
-        <translation>Euclid 3</translation>
+        <translation>欧几里得 3</translation>
     </message>
     <message>
         <source>Euclid 4</source>
-        <translation>Euclid 4</translation>
+        <translation>欧几里得 4</translation>
     </message>
     <message>
         <source>Euclid 5</source>
-        <translation>Euclid 5</translation>
+        <translation>欧几里得 5</translation>
     </message>
     <message>
         <source>Faraday</source>
-        <translation>Faraday</translation>
+        <translation>法拉第</translation>
     </message>
     <message>
         <source>Copernicus</source>
-        <translation>Copernicus</translation>
+        <translation>哥白尼</translation>
     </message>
     <message>
         <source>&amp;Remove Color</source>
@@ -13019,87 +13019,87 @@ This change cannot be undone and you will be asked to create a backup of your pr
     </message>
     <message>
         <source>Shakespeare</source>
-        <translation>Shakespeare</translation>
+        <translation>莎士比亚</translation>
     </message>
     <message>
         <source>Frost 1</source>
-        <translation>Frost 1</translation>
+        <translation>弗罗斯特 1</translation>
     </message>
     <message>
         <source>Frost 2</source>
-        <translation>Frost 2</translation>
+        <translation>弗罗斯特 2</translation>
     </message>
     <message>
         <source>Frost 3</source>
-        <translation>Frost 3</translation>
+        <translation>弗罗斯特 3</translation>
     </message>
     <message>
         <source>Frost 4</source>
-        <translation>Frost 4</translation>
+        <translation>弗罗斯特 4</translation>
     </message>
     <message>
         <source>Frost 5</source>
-        <translation>Frost 5</translation>
+        <translation>弗罗斯特 5</translation>
     </message>
     <message>
         <source>Shakespeare 1</source>
-        <translation>Shakespeare 1</translation>
+        <translation>莎士比亚 1</translation>
     </message>
     <message>
         <source>Shakespeare 2</source>
-        <translation>Shakespeare 2</translation>
+        <translation>莎士比亚 2</translation>
     </message>
     <message>
         <source>Shakespeare 3</source>
-        <translation>Shakespeare 3</translation>
+        <translation>莎士比亚 3</translation>
     </message>
     <message>
         <source>Shakespeare 4</source>
-        <translation>Shakespeare 4</translation>
+        <translation>莎士比亚 4</translation>
     </message>
     <message>
         <source>Shakespeare 5</source>
-        <translation>Shakespeare 5</translation>
+        <translation>莎士比亚 5</translation>
     </message>
     <message>
         <source>Gibbon 1</source>
-        <translation>Gibbon 1</translation>
+        <translation>吉本 1</translation>
     </message>
     <message>
         <source>Gibbon 2</source>
-        <translation>Gibbon 2</translation>
+        <translation>吉本 2</translation>
     </message>
     <message>
         <source>Gibbon 3</source>
-        <translation>Gibbon 3</translation>
+        <translation>吉本 3</translation>
     </message>
     <message>
         <source>Gibbon 4</source>
-        <translation>Gibbon 4</translation>
+        <translation>吉本 4</translation>
     </message>
     <message>
         <source>Gibbon 5</source>
-        <translation>Gibbon 5</translation>
+        <translation>吉本 5</translation>
     </message>
     <message>
         <source>Maxwell 1</source>
-        <translation>Maxwell 1</translation>
+        <translation>麦克斯韦 1</translation>
     </message>
     <message>
         <source>Maxwell 2</source>
-        <translation>Maxwell 2</translation>
+        <translation>麦克斯韦 2</translation>
     </message>
     <message>
         <source>Maxwell 3</source>
-        <translation>Maxwell 3</translation>
+        <translation>麦克斯韦 3</translation>
     </message>
     <message>
         <source>Maxwell 4</source>
-        <translation>Maxwell 4</translation>
+        <translation>麦克斯韦 4</translation>
     </message>
     <message>
         <source>Maxwell 5</source>
-        <translation>Maxwell 5</translation>
+        <translation>麦克斯韦 5</translation>
     </message>
 </context>
 <context>
@@ -13178,7 +13178,7 @@ This change cannot be undone and you will be asked to create a backup of your pr
     </message>
     <message>
         <source>Updated Documents</source>
-        <translation>最新文件</translation>
+        <translation>已更新文档</translation>
     </message>
     <message>
         <source>chars</source>
@@ -13277,7 +13277,7 @@ Please, select a valid Scrivener project file.</source>
     </message>
     <message>
         <source>Synced Documents</source>
-        <translation>同步的文件</translation>
+        <translation>已同步文档</translation>
     </message>
     <message>
         <source>Search Results</source>
@@ -13320,7 +13320,7 @@ Continue anyway?</source>
     </message>
     <message>
         <source>Writing Document Checksums...</source>
-        <translation>编写文件校验表...</translation>
+        <translation>编写文档校验和...</translation>
     </message>
     <message>
         <source>Error Description: Scrivener cannot access the file &quot;%1&quot; because it is being used by another application.</source>
@@ -13370,7 +13370,7 @@ Continue anyway?</source>
     </message>
     <message>
         <source>Contains new documents that were added to the &quot;%1&quot; collection but which have not yet been arranged in the binder.</source>
-        <translation>包含添加到&quot;%1 &quot;藏品中的新文件，但这些文件尚未在活页夹中排列。</translation>
+        <translation>包含添加到&quot;%1 &quot;藏品中的新文档，但这些文档尚未在活页夹中排列。</translation>
     </message>
     <message>
         <source>Untitled</source>
@@ -13604,7 +13604,7 @@ You might also try to compile and save to RTF or DOC format to avoid losing your
     </message>
     <message>
         <source>Removing &quot;%1&quot; style from all documents...</source>
-        <translation>从所有文件中删除&quot;%1 &quot;样式...</translation>
+        <translation>从所有文档中删除&quot;%1 &quot;样式...</translation>
     </message>
     <message>
         <source>Project Writer</source>
@@ -13664,7 +13664,7 @@ You might also try to compile and save to RTF or DOC format to avoid losing your
     </message>
     <message>
         <source>Rolling back to a different version of the document &apos;%1&apos; will cause the current document to be lost. Would you like to take a snapshot of the current version before rolling back?</source>
-        <translation>回滚到不同版本的文件&apos;%1&apos;将导致当前文件丢失。你想在回滚之前对当前版本进行快照吗？</translation>
+        <translation>回滚到不同版本的文档&apos;%1&apos;将导致当前文档丢失。你想在回滚之前对当前版本进行快照吗？</translation>
     </message>
     <message>
         <source>Windows</source>
@@ -13767,7 +13767,7 @@ You might also try to compile and save to RTF or DOC format to avoid losing your
     </message>
     <message>
         <source>Convert selected documents only</source>
-        <translation>只转换选定的文件</translation>
+        <translation>只转换选定的文档</translation>
     </message>
     <message>
         <source>Current - </source>
@@ -13775,7 +13775,7 @@ You might also try to compile and save to RTF or DOC format to avoid losing your
     </message>
     <message>
         <source>Ignore Documents not using script mode</source>
-        <translation>忽略不使用剧本模式的文件</translation>
+        <translation>忽略不使用剧本模式的文档</translation>
     </message>
     <message>
         <source>Convert from:</source>
@@ -13822,7 +13822,7 @@ You might also try to compile and save to RTF or DOC format to avoid losing your
     </message>
     <message>
         <source>Open document in a Quick Reference panel and close Copyholder pane.</source>
-        <translation>在快速参考面板中打开文件，并关闭校对助手窗格。</translation>
+        <translation>在快速参考面板中打开文档，并关闭校对助手窗格。</translation>
     </message>
     <message>
         <source>Show Copyholder On</source>
@@ -14401,7 +14401,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Sync only documents in collection:</source>
-        <translation>只同步集合中的文件:</translation>
+        <translation>只同步集合中的文档:</translation>
     </message>
     <message>
         <source>Import new non-Draft items into:</source>
@@ -14429,7 +14429,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Take snapshots of affected documents before updating</source>
-        <translation>在更新前对受影响的文件进行快照</translation>
+        <translation>在更新前对受影响的文档进行快照</translation>
     </message>
     <message>
         <source>Sync with External Folder</source>
@@ -14505,7 +14505,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Sync all other text documents in the project</source>
-        <translation>同步项目中的所有其他文本文件</translation>
+        <translation>同步项目中的所有其他文本文档</translation>
     </message>
     <message>
         <source>Rich Text (RTF)</source>
@@ -14560,7 +14560,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Shared Document Template Files Location</source>
-        <translation>共享文件模板文件的位置</translation>
+        <translation>共享文档模板文件的位置</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -15268,7 +15268,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>&amp;Binder Selection Affects</source>
-        <translation>活页夹影响范围(&amp;B)</translation>
+        <translation>活页夹中选中将影响(&amp;B)</translation>
     </message>
     <message>
         <source>Project &amp;Replace...</source>
@@ -15710,7 +15710,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Toggle Inspector Document/Project Bookmarks</source>
-        <translation>切换检查器文件/项目书签</translation>
+        <translation>切换检查器文档/项目书签</translation>
     </message>
     <message>
         <source>Fit to &amp;Height</source>
@@ -15938,7 +15938,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Ne&amp;w Folder From Selection</source>
-        <translation>基于选中内容建立父级文件夹(&amp;W)</translation>
+        <translation>基于选中内容新建文件夹(&amp;W)</translation>
     </message>
     <message>
         <source>Add to Project Bookmarks</source>
@@ -16229,7 +16229,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>In freeform corkboard mode, the index cards do not represent the order of the associated documents as they appear in the binder. &quot;Committing&quot; the order will rearrange these documents in the binder to best match the order on the freeform corkboard depending on the ordering options selected.</source>
-        <translation>在自由形式的软木板模式下，索引卡并不代表相关文件在活页夹中的顺序。&quot;提交 &quot;顺序将重新排列活页夹中的这些文件，以便根据所选择的排序选项，与自由格式软木板上的顺序最匹配。</translation>
+        <translation>在自由形式的软木板模式下，索引卡并不代表相关文档在活页夹中的顺序。&quot;提交 &quot;顺序将重新排列活页夹中的这些文档，以便根据所选择的排序选项，与自由格式软木板上的顺序最匹配。</translation>
     </message>
     <message>
         <source>&amp;Right</source>
@@ -19067,7 +19067,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Lock &amp;Group View Mode</source>
-        <translation>锁定组视图模式(&amp;G)</translation>
+        <translation>锁定组查看模式(&amp;G)</translation>
     </message>
     <message>
         <source>Untitled (N/A)</source>
@@ -19107,7 +19107,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>View Snapshot on &amp;Copyholder</source>
-        <translation>查看关于校对助手的快照(&amp;C)</translation>
+        <translation>在校对助手中查看快照(&amp;C)</translation>
     </message>
     <message>
         <source>Re&amp;veal in Binder</source>
@@ -19788,7 +19788,7 @@ Enabled: %6</source>
     </message>
     <message>
         <source>character</source>
-        <translation>特征</translation>
+        <translation>字符</translation>
     </message>
     <message>
         <source>with Icons</source>
@@ -20145,7 +20145,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Following a sync, documents that have been affected are placed in a &quot;Synced Documents&quot; collection. Would you like this collection to be shown automatically after each sync? (This setting can be changed via the Options.)</source>
-        <translation>在同步之后，受影响的文档会被放在 &quot;同步文档 &quot;集合中。你是否希望这个集合在每次同步后自动显示？(这个设置可以通过选项来改变。)</translation>
+        <translation>在同步之后，受影响的文档会被放在 &quot;已同步文档 &quot;集合中。你是否希望这个集合在每次同步后自动显示？(这个设置可以通过选项来改变。)</translation>
     </message>
     <message>
         <source>Scrivener could not copy the tutorial project to its final destination.</source>
@@ -22692,7 +22692,7 @@ Add Imported Styles: the above styles will be added to the project without repla
     </message>
     <message>
         <source>Some of the selected documents already have synopses associated with them. Would you like to overwrite them with new synopses generated from the first few lines of text content? (Choose &quot;No&quot; to generate synopses for only those documents that have no synopsis currently associated with them.) This action cannot be undone.</source>
-        <translation>一些选定的文件已经有了与之相关的概要。你想用从头几行文字内容中产生的新概要来覆盖它们吗？(选择 &quot;否&quot;，只为那些目前没有概要的文件生成概要。)该动作不可撤消。</translation>
+        <translation>一些选定的文档已经有了与之相关的概要。你想用从头几行文字内容中产生的新概要来覆盖它们吗？(选择 &quot;否&quot;，只为那些目前没有概要的文档生成概要。)该动作不可撤消。</translation>
     </message>
     <message>
         <source>The selected Scrivener project folder does not exist.</source>
@@ -22878,7 +22878,7 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>&lt;html&gt;If not all Section Layouts are used by the documents being compiled, those that are in use are displayed in bold.&lt;br/&gt;&lt;br/&gt;This footer bar shows which Section Types in the project use the selected layout.&lt;br/&gt;&lt;br/&gt;To change which Section Layouts are used, click &quot;Assign Section Layouts&quot; back in the main Compile windows.&lt;/html&gt;</source>
-        <translation>&lt;html&gt;如果不是所有的章节布局都被正在编译的文件使用，那些正在使用的布局将以粗体显示。&lt;br/&gt;&lt;br/&gt;这个页脚栏显示项目中哪些章节类型使用所选的布局。&lt;br/&gt;&lt;br/&gt;要改变哪些章节布局被使用，请在主编译窗口点击 &quot;指定章节布局&quot;。</translation>
+        <translation>&lt;html&gt;如果不是所有的章节布局都被正在编译的文档使用，那些正在使用的布局将以粗体显示。&lt;br/&gt;&lt;br/&gt;这个页脚栏显示项目中哪些章节类型使用所选的布局。&lt;br/&gt;&lt;br/&gt;要改变哪些章节布局被使用，请在主编译窗口点击 &quot;指定章节布局&quot;。</translation>
     </message>
     <message>
         <source>Do not add prefix or suffix for placeholder titles</source>
@@ -28593,7 +28593,7 @@ at: &apos;%1&apos;</source>
     <name>SCRTooltipPopup</name>
     <message>
         <source>If the title entered here matches the title of one of the compiled documents, the document will be used as the contents page. (This way you can create custom contents pages using document links.) If the entered title does not match any documents, a contents page will be automatically generated with this title at the top and containing an entry for every document that is separated by a page break.</source>
-        <translation>如果这里输入的标题与某个已编译的文档的标题相匹配，该文档将被用作内容页。(如果输入的标题与任何文件不匹配，将自动生成一个内容页，该标题位于顶部，并包含一个由分页符分隔的每个文件的条目。</translation>
+        <translation>如果这里输入的标题与某个已编译的文档的标题相匹配，该文档将被用作内容页。(如果输入的标题与任何文档不匹配，将自动生成一个内容页，该标题位于顶部，并包含一个由分页符分隔的每个文档的条目。</translation>
     </message>
     <message>
         <source>Tooltip</source>
