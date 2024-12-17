@@ -12254,7 +12254,7 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
     </message>
     <message>
         <source>Clear the Favorite Projects list?</source>
-        <translation>清理收藏项目列表？</translation>
+        <translation>清空收藏项目列表？</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -24107,6 +24107,14 @@ Please check the file is not in use by any other applications.</source>
     <message>
         <source>Open in &amp;Other Editor</source>
         <translation>在另一个编辑器内打开(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Open in External E&amp;ditor</source>
+        <translation>在外部编辑器内打开(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Copy &amp;URL</source>
+        <translation>复制URL(&amp;U)</translation>
     </message>
     <message>
         <source>Bookmark options.</source>
