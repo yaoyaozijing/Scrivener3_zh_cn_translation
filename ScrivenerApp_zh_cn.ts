@@ -13480,7 +13480,7 @@ Error: %1</source>
     </message>
     <message>
         <source>Untitled (Save)</source>
-        <translation>无题 (保存)</translation>
+        <translation>无标题 (保存)</translation>
     </message>
     <message>
         <source>Document target exceeded.</source>
@@ -13696,7 +13696,7 @@ You might also try to compile and save to RTF or DOC format to avoid losing your
     </message>
     <message>
         <source>Untitled Snapshot</source>
-        <translation>无题快照</translation>
+        <translation>无标题快照</translation>
     </message>
     <message>
         <source>Writing Project Version...</source>
@@ -18078,7 +18078,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Untitled</source>
-        <translation>无题</translation>
+        <translation>无标题</translation>
     </message>
     <message>
         <source>%1 %2 will be exported.</source>
@@ -18923,7 +18923,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Untitled Collection</source>
-        <translation>无题集</translation>
+        <translation>无标题集合</translation>
     </message>
     <message>
         <source>Multiple Selection</source>
@@ -19039,7 +19039,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Untitled (N/A)</source>
-        <translation>无题 (不适用)</translation>
+        <translation>无标题 (不适用)</translation>
     </message>
     <message>
         <source>Go To &amp;Collection</source>
