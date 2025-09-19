@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Top</source>
-        <translation>顶</translation>
+        <translation>顶部</translation>
     </message>
     <message>
         <source>Left</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Bottom</source>
-        <translation>底</translation>
+        <translation>底部</translation>
     </message>
     <message>
         <source>Height</source>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Top</source>
-        <translation>顶</translation>
+        <translation>顶部</translation>
     </message>
     <message>
         <source>Left</source>
@@ -76,7 +76,7 @@
     </message>
     <message>
         <source>Bottom</source>
-        <translation>底</translation>
+        <translation>底部</translation>
     </message>
     <message>
         <source>Units:</source>
@@ -250,7 +250,7 @@
     </message>
     <message>
         <source>Composition Mode Backdrop:</source>
-        <translation>创作模式背景墙:</translation>
+        <translation>沉浸模式背景墙:</translation>
     </message>
     <message>
         <source>Select Font...</source>
@@ -258,7 +258,7 @@
     </message>
     <message>
         <source>&quot;None&quot; item title:</source>
-        <translation>无条目标题。</translation>
+        <translation>未设定条目标题:</translation>
     </message>
     <message>
         <source>Image file could not be loaded.
@@ -268,7 +268,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Default Types by Structure</source>
-        <translation>按结构划分的默认类型</translation>
+        <translation>根据结构划分文档的默认类型</translation>
     </message>
     <message>
         <source>Custom Format:</source>
@@ -312,7 +312,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>If ticked, the marker will be used for inspector footnotes added to text with no selection.</source>
-        <translation>如果打勾，该标记将被用于检查器脚注添加到没有选择的文本中。</translation>
+        <translation>若勾选此项，该标记将用于在未选中文本时添加的检查器脚注。</translation>
     </message>
     <message>
         <source>Tick by default</source>
@@ -328,11 +328,11 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Reordering metadata fields may affect which custom metadata columns are visible in the outliner.</source>
-        <translation>对元数据字段进行重新排序可能会影响哪些自定义元数据列在纲要中可见。</translation>
+        <translation>对元数据字段进行重新排序可能会影响哪些自定义元数据列在大纲中可见。</translation>
     </message>
     <message>
         <source>(set via preferences)</source>
-        <translation>(通过首选项)</translation>
+        <translation>(通过偏好设定)</translation>
     </message>
     <message>
         <source>Choose Backup Folder</source>
@@ -344,7 +344,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Determine which section types should be used during Compile for documents with &quot;Structure-Based&quot; selection as their section type.</source>
-        <translation>对于选择 &quot;基于结构 &quot;作为章节类型的文档，确定在编译时应使用哪些章节类型。</translation>
+        <translation>对于选择 &quot;基于结构 &quot;作为章节类型的文档，确定在编纂时应使用哪些章节类型。</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -460,7 +460,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Section types are used by the current Compile format to determine how documents appear when compiled.</source>
-        <translation>章节类型被当前的编译格式用来决定文档在编译时的显示方式。</translation>
+        <translation>章节类型被当前的编纂格式用来决定文档在编纂时的显示方式。</translation>
     </message>
     <message>
         <source>Special Folders</source>
@@ -488,7 +488,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Custom metadata appears in the &quot;Custom Metadata&quot; pane of the inspector and can be added as columns to the outliner.</source>
-        <translation>自定义元数据出现在检查器的 &quot;自定义元数据 &quot;窗格中，并可以作为列添加到纲要中。</translation>
+        <translation>自定义元数据出现在检查器的 &quot;自定义元数据 &quot;窗格中，并可以作为列添加到大纲中。</translation>
     </message>
     <message>
         <source>Section Types</source>
@@ -594,7 +594,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Open Backup Preferences...</source>
-        <translation>打开备份首选项...</translation>
+        <translation>打开备份选项...</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -630,7 +630,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>(Automatic backups must be turned on in the Preferences for these options to be available.)</source>
-        <translation>(必须在首选项中打开自动备份，这些选项才可用。)</translation>
+        <translation>(必须在偏好中打开自动备份，这些选项才可用。)</translation>
     </message>
     <message>
         <source>Checkbox</source>
@@ -677,7 +677,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Ignore blank lines using styles</source>
-        <translation>使用样式忽略空行</translation>
+        <translation>忽略使用了样式的空行</translation>
     </message>
     <message>
         <source>Custom separator font</source>
@@ -689,19 +689,19 @@ Please select another location.</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;b&gt;Separator before sections&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Determines the separating characters inserted before documents that use a different section layout to the preceding document.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Separator between sections&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Determines the separating characters inserted before documents that use the same section layout as the preceding document.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Blank line separator&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;If a blank line separator is set, it will be inserted into any blank lines in the section. This can be used for adding scene break separators when multiple scenes occur within the same document, for instance. (Not available for all file types.)&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;b&gt;章节前的分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前一个文档不同的章节布局的文件前插入的分隔符。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;章节间分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前一文件相同的章节布局的文件前插入的分隔符。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;空行分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;如果设置了空行分隔符，它将被插入到该节的任何空行中。例如，这可用于在同一文件中出现多个场景时添加场景分隔符。(不是对所有文件类型都可用。)&lt;/html&gt;</translation>
+        <translation>&lt;b&gt;布局变更时文档前的分隔符&lt;/b&gt;&lt;br&gt;&lt;br&gt;当文档的章节布局&lt;u&gt;不同于&lt;/u&gt;前一个文档时，将在该文档前插入此分隔字符。&lt;br&gt;&lt;br&gt;&lt;b&gt;布局延续时文档前的分隔符&lt;/b&gt;&lt;br&gt;&lt;br&gt;当文档的章节布局&lt;u&gt;相同于&lt;/u&gt;前一个文档时，将在该文档前插入此分隔字符。&lt;br&gt;&lt;br&gt;&lt;b&gt;替换文档内的空行为分隔符&lt;/b&gt;&lt;br&gt;&lt;br&gt;若设置替换文档内的空行为分隔符，该符号将被插入到章节内所有空行的位置。例如：当同一文档中出现多个场景时，可用此功能添加场景分隔符。（并非所有文件类型都支持此功能。）</translation>
     </message>
     <message>
         <source>Override separator after:</source>
-        <translation>覆盖后的分隔符:</translation>
+        <translation>强制覆盖文档后的分隔符:</translation>
     </message>
     <message>
         <source>Separator between sections:</source>
-        <translation>章节间的分隔符:</translation>
+        <translation>布局延续时文档前的分隔符:</translation>
     </message>
     <message>
         <source>&lt;html&gt;Default separators are used for any documents set to compile &quot;As-Is&quot; and for section layouts with &quot;Use default separators&quot; ticked.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Separator before sections&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Determines the separating characters inserted before documents that use a different section layout to the preceding document.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Separator between sections&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Determines the separating characters inserted before documents that use the same section layout as the preceding document.&lt;/html&gt;</source>
-        <translation>&lt;html&gt;默认分隔符用于任何设置为 &quot;按原样 &quot;编译的文档和勾选了 &quot;使用默认分隔符 &quot;的章节布局。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;章节前的分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前面的文档不同的章节布局的文档前插入的分隔符。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;章节之间的分隔符&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;确定在使用与前一个文档相同的章节布局的文档之前插入的分隔符。</translation>
+        <translation>设置为“原样编译”的文档，以及勾选了“使用默认分隔符”的章节布局，均会采用默认分隔符。&lt;br&gt;&lt;br&gt;&lt;b&gt;布局变更时文档前的分隔符&lt;/b&gt;&lt;br&gt;&lt;br&gt;当某文档的章节布局&lt;u&gt;不同于&lt;/u&gt;前一个文档时，将在该文档前插入此分隔字符。&lt;br&gt;&lt;br&gt;&lt;b&gt;布局延续时文档前的分隔符&lt;/b&gt;&lt;br&gt;&lt;br&gt;当某文档的章节布局&lt;u&gt;相同于&lt;/u&gt;前一个文档时，将在该文档前插入此分隔字符。</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -709,7 +709,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Blank line separator:</source>
-        <translation>空白行分隔符:</translation>
+        <translation>替换文档内的空行为分隔符:</translation>
     </message>
     <message>
         <source>New Layout</source>
@@ -717,7 +717,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Separator before sections:</source>
-        <translation>章节前的分隔符:</translation>
+        <translation>布局变更时文档前的分隔符:</translation>
     </message>
     <message>
         <source>Text Files</source>
@@ -733,7 +733,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Ignore indents when centering custom separators</source>
-        <translation>自定义分隔符居中时忽略缩进</translation>
+        <translation>当自定义分隔符居中时忽略缩进</translation>
     </message>
     <message>
         <source>Empty Line</source>
@@ -753,7 +753,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Single Return</source>
-        <translation>单回车</translation>
+        <translation>仅换行</translation>
     </message>
 </context>
 <context>
@@ -804,11 +804,11 @@ Please select another location.</source>
     </message>
     <message>
         <source>Styles defined here can be used in the &quot;Section Layouts&quot; settings, and will override styles in the compiled text with the same name and type.</source>
-        <translation>这里定义的样式可以在 &quot;章节布局 &quot;设置中使用，并将覆盖已编译文本中具有相同名称和类型的样式。</translation>
+        <translation>这里定义的样式可以在 &quot;章节布局 &quot;设置中使用，并将覆盖已编纂文本中具有相同名称和类型的样式。</translation>
     </message>
     <message>
         <source>Flatten first indent</source>
-        <translation>扁平化的第一个缩进</translation>
+        <translation>取消首行缩进</translation>
     </message>
     <message>
         <source>Add a style.</source>
@@ -816,7 +816,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Compile Styles</source>
-        <translation>编译样式</translation>
+        <translation>编纂样式</translation>
     </message>
     <message>
         <source>Sample text so that you can see what your paragraph style looks like. Ju arthran morvit fli cree xi, wex jince harle, athran irpsa yem, tolaspa arul sernag wex.
@@ -848,11 +848,11 @@ And one more sample paragraph. Furng yiphras xu, ik ti, qi ux athran erk erc fli
     </message>
     <message>
         <source>Single paragraph only</source>
-        <translation>仅限单段</translation>
+        <translation>仅限单一段落</translation>
     </message>
     <message>
         <source>Match right indent to left</source>
-        <translation>将右缩进与左缩进相匹配</translation>
+        <translation>右缩进对齐左缩进值</translation>
     </message>
     <message>
         <source>Override Name:</source>
@@ -860,7 +860,7 @@ And one more sample paragraph. Furng yiphras xu, ik ti, qi ux athran erk erc fli
     </message>
     <message>
         <source>Flatten next indent</source>
-        <translation>扁平化的下一个缩进</translation>
+        <translation>减少下一层级缩进</translation>
     </message>
     <message>
         <source>Delete selected style</source>
@@ -872,7 +872,7 @@ And one more sample paragraph. Furng yiphras xu, ik ti, qi ux athran erk erc fli
     </message>
     <message>
         <source>Delete text of this style</source>
-        <translation>删除该样式的文本</translation>
+        <translation>删除此样式对应的文字</translation>
     </message>
     <message>
         <source>Include styles information in exported file</source>
@@ -948,7 +948,7 @@ Resize the dialog to adjust final equation image size.</source>
     </message>
     <message>
         <source>Project metadata may be combined with other metadata defined in the Compile format, and with the contents of any &quot;Metadata&quot; document found at the start of the draft contents.</source>
-        <translation>项目元数据可以与编译格式中定义的其他元数据，以及在草稿内容开头发现的任何 &quot;元数据 &quot;文档的内容相结合。</translation>
+        <translation>项目元数据可以与编纂格式中定义的其他元数据，以及在草稿内容开头发现的任何 &quot;元数据 &quot;文档的内容相结合。</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -1492,7 +1492,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Compiling statistics...</source>
-        <translation>编译统计...</translation>
+        <translation>编纂统计...</translation>
     </message>
     <message>
         <source>Count</source>
@@ -1524,7 +1524,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Count current compile group only</source>
-        <translation>仅计数当前编译组</translation>
+        <translation>仅计数当前编纂组</translation>
     </message>
     <message>
         <source>Selection Statistics Options</source>
@@ -1572,7 +1572,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Compiled</source>
-        <translation>已编译</translation>
+        <translation>已编纂</translation>
     </message>
     <message>
         <source>Longest document:</source>
@@ -1648,7 +1648,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Compiled Statistics Options</source>
-        <translation>已编译的统计数据选项</translation>
+        <translation>已编纂的统计数据选项</translation>
     </message>
     <message>
         <source>Exclude footnotes</source>
@@ -1660,7 +1660,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Compile statistics</source>
-        <translation>编译统计</translation>
+        <translation>编纂统计</translation>
     </message>
     <message>
         <source>Paragraphs:</source>
@@ -1676,7 +1676,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Abort Compile</source>
-        <translation>中止编译</translation>
+        <translation>中止编纂</translation>
     </message>
     <message>
         <source>---------</source>
@@ -1881,7 +1881,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Insert title as run-in head</source>
-        <translation>插入标题作为贯穿式标题</translation>
+        <translation>插入标题作为连排标题</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -1975,7 +1975,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>If the title entered here matches the title of one of the compiled documents, the document will be used as the contents page. (This way you can create custom contents pages using document links.) If the entered title does not match any documents, a contents page will be automatically generated with this title at the top and containing an entry for every document that is separated by a page break.</source>
-        <translation>如果此处输入的标题与已编译文档之一的标题匹配，则该文档将用作目录页。(通过这种方式，您可以使用文档链接创建自定义目录页。)如果输入的标题与任何文档都不匹配，则系统会自动生成一个目录页，使用该标题作为顶部标题，并包含每个通过分页符分隔的文档。</translation>
+        <translation>如果此处输入的标题与已编纂文档之一的标题匹配，则该文档将用作目录页。(通过这种方式，您可以使用文档链接创建自定义目录页。)如果输入的标题与任何文档都不匹配，则系统会自动生成一个目录页，使用该标题作为顶部标题，并包含每个通过分页符分隔的文档。</translation>
     </message>
     <message>
         <source>Table of contents title:</source>
@@ -2122,7 +2122,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Compile Format Designer</source>
-        <translation>编译格式设计器</translation>
+        <translation>编纂格式设计器</translation>
     </message>
     <message>
         <source>Compatibility</source>
@@ -2138,11 +2138,11 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>ePub 2</source>
-        <translation>电子书 2</translation>
+        <translation>ePub 2</translation>
     </message>
     <message>
         <source>ePub 3</source>
-        <translation>电子书3</translation>
+        <translation>ePub 3</translation>
     </message>
     <message>
         <source>Fountain</source>
@@ -2253,7 +2253,7 @@ Please try changing or removing the search terms, increasing the obscurity level
     </message>
     <message>
         <source>Header font:</source>
-        <translation>标题字体:</translation>
+        <translation>页眉字体:</translation>
     </message>
     <message>
         <source>Footer font:</source>
@@ -2293,7 +2293,7 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>Back Matter</source>
-        <translation>后面的内容</translation>
+        <translation>文后页</translation>
     </message>
     <message>
         <source>Page numbers count first pages</source>
@@ -2305,7 +2305,7 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>After front matter</source>
-        <translation>在前面的内容之后</translation>
+        <translation>文前页之后</translation>
     </message>
     <message>
         <source>First Pages</source>
@@ -2377,11 +2377,11 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>Different header and footer for back matter</source>
-        <translation>背面内容有不同的页眉和页脚</translation>
+        <translation>文后页有不同的页眉和页脚</translation>
     </message>
     <message>
         <source>The header and footer fonts selected here must also occur in the compiled text (or in the formatting of one of the section layouts).</source>
-        <translation>在此选择的页眉和页脚字体也必须出现在已编译的文本中（或在某个章节布局的格式中）。</translation>
+        <translation>在此选择的页眉和页脚字体也必须出现在已编纂的文本中（或在某个章节布局的格式中）。</translation>
     </message>
     <message>
         <source>Preview...</source>
@@ -2397,15 +2397,15 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>Facing Pages</source>
-        <translation>双页</translation>
+        <translation>偶数页</translation>
     </message>
     <message>
         <source>Use facing pages (alternating margins, header and footer)</source>
-        <translation>使用面对面的页面（交替的边距、页眉和页脚）。</translation>
+        <translation>使用对开页（交替的边距、页眉和页脚）。</translation>
     </message>
     <message>
         <source>Header:</source>
-        <translation>标题:</translation>
+        <translation>页眉:</translation>
     </message>
 </context>
 <context>
@@ -2424,7 +2424,7 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>&quot;Stitch together adjacent tables&quot; causes any tables that are separated by only empty lines to be merged into a single table, provided that they have the same number of columns. These options are mainly useful for formats which require a single table for the whole document (such as documentary script formats).</source>
-        <translation>缝合相邻的表格 &quot;使任何仅由空行分隔的表格合并成一个表格，只要它们有相同的列数。这些选项主要适用于需要整个文档使用一个表格的格式（如文档剧本格式）。</translation>
+        <translation>拼接相邻的表格 &quot;使任何仅由空行分隔的表格合并成一个表格，只要它们有相同的列数。这些选项主要适用于需要整个文档使用一个表格的格式（如文档剧本格式）。</translation>
     </message>
     <message>
         <source> pixels</source>
@@ -2436,11 +2436,11 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>Restrict width of stitched-together tables to page width</source>
-        <translation>将缝合在一起的表格的宽度限制为页面宽度</translation>
+        <translation>将拼接在一起的表格的宽度限制为页面宽度</translation>
     </message>
     <message>
         <source>Insert blank row between stitched-together tables</source>
-        <translation>在缝合的表格之间插入空白行</translation>
+        <translation>在拼接的表格之间插入空行</translation>
     </message>
 </context>
 <context>
@@ -2503,7 +2503,7 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>After front matter</source>
-        <translation>在前面的内容之后</translation>
+        <translation>文前页之后</translation>
     </message>
     <message>
         <source>Options</source>
@@ -2511,7 +2511,7 @@ Insert &lt;$p&gt; for page number and &lt;$pagecount&gt; for total pages. (Other
     </message>
     <message>
         <source>Before back matter</source>
-        <translation>背面事项之前</translation>
+        <translation>文后页之前</translation>
     </message>
     <message>
         <source>Document Suffix:</source>
@@ -2672,7 +2672,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Compile Project MetaData</source>
-        <translation>编译项目元数据</translation>
+        <translation>编纂项目元数据</translation>
     </message>
     <message>
         <source>&amp;Description:</source>
@@ -2730,7 +2730,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
 &lt;$fullname&gt;
 &lt;$forename&gt;
 &lt;$surname&gt;</source>
-        <translation>编译格式可以使用项目名称和作者姓名的设置来填充页眉和页脚等区域。你可以在你自己的自定义编译格式中使用它们，或者在你的稿件中的任何地方，通过使用以下标签。
+        <translation>编纂格式可以使用项目名称和作者姓名的设置来填充页眉和页脚等区域。你可以在你自己的自定义编纂格式中使用它们，或者在你的稿件中的任何地方，通过使用以下标签。
 
 &lt;$projecttitle&gt;&lt;$abbr_title
 &lt;$abbr_title&gt;&lt;$abbr_title&gt;
@@ -2827,7 +2827,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Open compiled document in default application</source>
-        <translation>在默认应用程序中打开编译的文档</translation>
+        <translation>在默认应用程序中打开编纂的文档</translation>
     </message>
     <message>
         <source>Escape special characters</source>
@@ -2875,11 +2875,11 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Convert MultiMarkdown to rich text in notes and text</source>
-        <translation>将MultiMarkdown转换为笔记和文本中的富文本</translation>
+        <translation>在笔记和文本中将MultiMarkdown转换为富文本</translation>
     </message>
     <message>
         <source>Book begins after front matter</source>
-        <translation>书籍在前面的内容后开始</translation>
+        <translation>书籍在文前页后开始</translation>
     </message>
     <message>
         <source>Insert unique document identifiers only</source>
@@ -3121,7 +3121,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Enclosing markers for annotations:</source>
-        <translation>包裹着注释的标记:</translation>
+        <translation>注释容器标记:</translation>
     </message>
     <message>
         <source>Select Font...</source>
@@ -3149,7 +3149,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Center single-line footnotes</source>
-        <translation>中央单行脚注</translation>
+        <translation>居中单行脚注</translation>
     </message>
     <message>
         <source>Endnotes use single line spacing</source>
@@ -3225,7 +3225,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Footnotes become endnotes when compiled to this file format.</source>
-        <translation>脚注在编译成这种文件格式时成为尾注。</translation>
+        <translation>脚注在编纂成这种文件格式时成为尾注。</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -3261,7 +3261,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Enclosing markers for footnotes:</source>
-        <translation>附带标记的脚注:</translation>
+        <translation>脚注容器标记:</translation>
     </message>
     <message>
         <source>Separator style:</source>
@@ -3269,7 +3269,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Enclosing paragraph markers for footnotes:</source>
-        <translation>附带脚注的段落标记:</translation>
+        <translation>脚注段落容器标记:</translation>
     </message>
     <message>
         <source>Export comments and annotations as:</source>
@@ -3277,7 +3277,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Use period and space style instead of superscript in markers</source>
-        <translation>在标记中使用句号和空格样式而不是上标</translation>
+        <translation>在标记中使用句号空格样式而不是上标</translation>
     </message>
 </context>
 <context>
@@ -3436,11 +3436,11 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Highlight boxes around styled text</source>
-        <translation>围绕具有样式的文本的高亮框</translation>
+        <translation>围绕具有样式文本的高亮框</translation>
     </message>
     <message>
         <source>Scratchpad Notes Background</source>
-        <translation>便笺笔记背景</translation>
+        <translation>便笺背景</translation>
     </message>
     <message>
         <source>Only when using fixed row heights</source>
@@ -3484,7 +3484,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Composition Mode</source>
-        <translation>创作模式</translation>
+        <translation>沉浸模式</translation>
     </message>
     <message>
         <source>Outliner uses alternating row colors</source>
@@ -3496,7 +3496,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Scratchpad Notes Text</source>
-        <translation>便笺笔记文本</translation>
+        <translation>便笺文本</translation>
     </message>
     <message>
         <source>This value will be added to the operating system default indent.</source>
@@ -3840,7 +3840,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Compile Settings</source>
-        <translation>编译设置</translation>
+        <translation>编纂设置</translation>
     </message>
     <message>
         <source>Select Background</source>
@@ -3988,7 +3988,7 @@ You can use special characters if encoded like: &apos;&amp;amp;&apos; &apos;&amp
     </message>
     <message>
         <source>Keep Project Bookmarks window on top (applies on next use).</source>
-        <translation>保持项目书签窗口在顶部（适用于下次使用）。</translation>
+        <translation>置顶项目书签窗口（下次使用时生效）。</translation>
     </message>
     <message>
         <source>Find Results Text</source>
@@ -4589,7 +4589,7 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Compile:</source>
-        <translation>编译:</translation>
+        <translation>编纂:</translation>
     </message>
     <message>
         <source>Documents with %1</source>
@@ -4739,11 +4739,11 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Front Matter</source>
-        <translation>扉页</translation>
+        <translation>文前页</translation>
     </message>
     <message>
         <source>Back Matter</source>
-        <translation>后面的内容</translation>
+        <translation>文后页</translation>
     </message>
     <message>
         <source>No Status</source>
@@ -4824,13 +4824,6 @@ Please, specify a different name.</source>
         <source>...</source>
         <comment>more (open character viewer)</comment>
         <translation>...</translation>
-    </message>
-</context>
-<context>
-    <name>SCRDocumentsIconNames</name>
-    <message>
-        <source>Blackboard</source>
-        <translation>黑板</translation>
     </message>
 </context>
 <context>
@@ -5268,7 +5261,7 @@ Error:&apos;%2&apos;</source>
     </message>
     <message>
         <source>Finish</source>
-        <translation>完成</translation>
+        <translation>芬兰语</translation>
     </message>
     <message>
         <source>French</source>
@@ -5318,7 +5311,7 @@ You can try to open the PDF file in external editor.</source>
     </message>
     <message>
         <source>Snapshot file already exists. Will not overwrite snapshot file: &apos;%1&apos;</source>
-        <translation>快照文件已存在。不会覆盖快照文件：&apos;%1&apos;</translation>
+        <translation>快照文件已存在。不会覆盖快照文件: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Pandoc</source>
@@ -5386,7 +5379,7 @@ You can try to open the PDF file in external editor.</source>
     </message>
     <message>
         <source>Compiler: </source>
-        <translation>编译器:</translation>
+        <translation>编纂器:</translation>
     </message>
     <message>
         <source>Select a language.</source>
@@ -5580,7 +5573,7 @@ Error: %1</source>
     </message>
     <message>
         <source>Build: </source>
-        <translation>编译:</translation>
+        <translation>制作者:</translation>
     </message>
     <message>
         <source>Norwegian</source>
@@ -5816,7 +5809,7 @@ Error: %3</source>
     </message>
     <message>
         <source>German (Guillemets)</source>
-        <translation>德文（Guillemets</translation>
+        <translation>德文 (Guillemets)</translation>
     </message>
     <message>
         <source>Starting Logger</source>
@@ -6188,7 +6181,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Replace text during compilation</source>
-        <translation>在编译过程中替换文本</translation>
+        <translation>在编纂过程中替换文本</translation>
     </message>
     <message>
         <source>Cover</source>
@@ -6276,7 +6269,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Compile Result</source>
-        <translation>编译结果</translation>
+        <translation>编纂结果</translation>
     </message>
     <message>
         <source>ePub 3 Ebook</source>
@@ -6296,7 +6289,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>ePub Ebook</source>
-        <translation>电子书</translation>
+        <translation>ePub 电子书</translation>
     </message>
     <message>
         <source>Kindle Previewer could not be found.</source>
@@ -6316,7 +6309,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Hold Alt down to reset settings to the state they were in when the Compile window was opened.</source>
-        <translation>按住Alt键可以将设置重置为编译窗口打开时的状态。</translation>
+        <translation>按住Alt键可以将设置重置为编纂窗口打开时的状态。</translation>
     </message>
     <message>
         <source>KindleGen not found in the specified location.</source>
@@ -6336,7 +6329,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Hold Alt down to save current settings instead of compiling.</source>
-        <translation>按住Alt键可以保存当前设置，而不是编译。</translation>
+        <translation>按住Alt键可以保存当前设置，而不是编纂。</translation>
     </message>
     <message>
         <source>Kindle Previewer Installation Folder</source>
@@ -6356,7 +6349,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Compile For:</source>
-        <translation>编译为:</translation>
+        <translation>编纂为:</translation>
     </message>
     <message>
         <source>Save As MIME Web Page</source>
@@ -6372,7 +6365,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Kindle Compile Result</source>
-        <translation>Kindle的编译结果</translation>
+        <translation>Kindle的编纂结果</translation>
     </message>
     <message>
         <source>The format &quot;%1&quot; cannot be edited because it is built into Scrivener. Would you like to create a duplicate of the format that you can customize its Section Layouts?</source>
@@ -6408,7 +6401,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Choose which documents should be compiled</source>
-        <translation>选择哪些文档应该被编译</translation>
+        <translation>选择哪些文档应该被编纂</translation>
     </message>
     <message>
         <source>Set metadata such as the title and author</source>
@@ -6440,11 +6433,11 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>The following field(s) are blank in the &apos;Metadata&apos; section of the expanded compile dialog:</source>
-        <translation>在扩展的编译对话框的 &quot;元数据 &quot;章节，以下字段是空白的:</translation>
+        <translation>在扩展的编纂对话框的 &quot;元数据 &quot;章节，以下字段是空白的:</translation>
     </message>
     <message>
         <source>Compile</source>
-        <translation>编译</translation>
+        <translation>编纂</translation>
     </message>
     <message>
         <source>Check that you have selected at least one document from the &apos;Contents&apos; pane that contains text, also check you have valid items selected in the  &apos;Formatting&apos; pane.</source>
@@ -6456,19 +6449,19 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Import Scrivener v1 Compile Preset</source>
-        <translation>导入Scrivener v1 编译预设</translation>
+        <translation>导入Scrivener v1 编纂预设</translation>
     </message>
     <message>
         <source>The following %1 occurred while compiling the Kindle book:</source>
-        <translation>在编译Kindle书籍时发生了以下%1的情况:</translation>
+        <translation>在编纂Kindle书籍时发生了以下%1的情况:</translation>
     </message>
     <message>
         <source>Scrivener Compiler</source>
-        <translation>Scrivener编译器</translation>
+        <translation>Scrivener编纂器</translation>
     </message>
     <message>
         <source>Compile Overview</source>
-        <translation>编译概览</translation>
+        <translation>编纂概览</translation>
     </message>
     <message>
         <source>No transformation will occur. You must re-install Scrivener to replace the missing MultiMarkdown executable.</source>
@@ -6484,7 +6477,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Scrivener v1 Compile Preset</source>
-        <translation>Scrivener v1 编译预设</translation>
+        <translation>Scrivener v1 编纂预设</translation>
     </message>
     <message>
         <source>Kindle Previewer Not Found</source>
@@ -6496,11 +6489,11 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>Generating compile document failed. Try compiling to RTF only.</source>
-        <translation>生成编译文档失败。尝试只编译成RTF。</translation>
+        <translation>生成编纂文档失败。尝试只编纂成RTF。</translation>
     </message>
     <message>
         <source>Delete Compile Format</source>
-        <translation>删除编译格式</translation>
+        <translation>删除编纂格式</translation>
     </message>
     <message>
         <source>The format &quot;%1&quot; wll be deleted from the project. This action cannot be undone.</source>
@@ -6532,11 +6525,11 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>The selected Scrivener v1 compile preset failed loading.</source>
-        <translation>所选的Scrivener v1编译预设加载失败。</translation>
+        <translation>所选的Scrivener v1编纂预设加载失败。</translation>
     </message>
     <message>
         <source>No file was generated as the compiled document was empty.</source>
-        <translation>由于编译的文档为空，因此未生成任何文件。</translation>
+        <translation>由于编纂的文档为空，因此未生成任何文件。</translation>
     </message>
     <message>
         <source>Save As ePub Book</source>
@@ -6591,7 +6584,7 @@ Error: &apos;%2&apos;</source>
     </message>
     <message>
         <source>&lt;html&gt;Define styles for selection in the &quot;Styles&quot; pane. Styles only defined in the current project and not in the format&apos;s &quot;Styles&quot; area cannot be selected, because Compile formats are self-contained and can be used with any project.&lt;/html&gt;</source>
-        <translation>&lt;html&gt;在 &quot;样式 &quot;窗格中定义样式以供选择。只有在当前项目中定义的样式，而不是在格式的 &quot;样式 &quot;区域中定义的样式不能被选中，因为编译格式是自成一体的，可以用于任何项目。&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;在 &quot;样式 &quot;窗格中定义样式以供选择。只有在当前项目中定义的样式，而不是在格式的 &quot;样式 &quot;区域中定义的样式不能被选中，因为编纂格式是自成一体的，可以用于任何项目。&lt;/html&gt;</translation>
     </message>
     <message>
         <source>ePub 2.0</source>
@@ -6673,9 +6666,9 @@ Error: &apos;%2&apos;</source>
 Use &lt;$inputfile&gt; in the arguments to denote the compiled input file that is generated during Compile. If &lt;$inputfile&gt; is not included, the input file name will be added as the last argument.
 
 Use &lt;$outputname&gt; to include the output file name in the arguments. This will be the same as &lt;$inputfile&gt; but without the file extension. You should add the file extension yourself (e.g. &quot;&lt;$outputname&gt;.docx&quot;).</source>
-        <translation>指定的命令行路径和参数将在导出后对编译的文件进行调用。
+        <translation>指定的命令行路径和参数将在导出后对编纂的文件进行调用。
 
-在参数中使用&lt;$inputfile&gt;来表示在编译过程中产生的编译输入文件。如果&lt;$inputfile&gt;不包括在内，输入文件名将作为最后一个参数加入。
+在参数中使用&lt;$inputfile&gt;来表示在编纂过程中产生的编纂输入文件。如果&lt;$inputfile&gt;不包括在内，输入文件名将作为最后一个参数加入。
 
 使用&lt;$outputname&gt;来在参数中包括输出文件名。这将与&lt;$inputfile&gt;相同，但没有文件扩展名。你应该自己添加文件扩展名（例如，&quot;&lt;$outputname&gt;.docx&quot;）。</translation>
     </message>
@@ -6904,10 +6897,6 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
         <translation>不同的内联脚注字体:</translation>
     </message>
     <message>
-        <source>Set Styles Defaults...</source>
-        <translation>设置样式默认值</translation>
-    </message>
-    <message>
         <source>Notes font:</source>
         <translation>笔记字体:</translation>
     </message>
@@ -6961,7 +6950,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Use the Insert key to control o&amp;vertype mode</source>
-        <translation>使用 Insert 键切换改写模式(&amp;V)</translation>
+        <translation>使用插入键切换改写模式(&amp;V)</translation>
     </message>
     <message>
         <source> pixels</source>
@@ -7041,7 +7030,11 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>(Used for document notes, project notes and scratch pad notes.)</source>
-        <translation>(用于文档笔记、项目笔记和便签簿笔记。)</translation>
+        <translation>(用于文档笔记、项目笔记和便笺。)</translation>
+    </message>
+    <message>
+        <source>Set Styles Defaults...</source>
+        <translation>设置样式默认值</translation>
     </message>
     <message>
         <source>Use revision colors in notes</source>
@@ -7092,7 +7085,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Escape key closes composition mode</source>
-        <translation>Esc 键退出创作模式</translation>
+        <translation>Esc 键退出沉浸模式</translation>
     </message>
     <message>
         <source>Fifth</source>
@@ -7116,7 +7109,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Return ends editing synopsis in corkboard and outliner views</source>
-        <translation>对于软木板和大纲视图，回车键用于结束概要编辑</translation>
+        <translation>对于软木板和大纲视图，换行键用于结束概要编辑</translation>
     </message>
     <message>
         <source>Other Editor</source>
@@ -7136,7 +7129,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Return creates new item in list, corkboard and outliner views</source>
-        <translation>对于软木板和大纲视图，回车键用于在列表内创建新条目</translation>
+        <translation>对于软木板和大纲视图，换行键用于在列表内创建新条目</translation>
     </message>
     <message>
         <source>Always creates a new card in freeform mode</source>
@@ -7144,7 +7137,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Composition Mode</source>
-        <translation>创作模式</translation>
+        <translation>沉浸模式</translation>
     </message>
     <message>
         <source>Allow limited navigation in web pages</source>
@@ -7183,10 +7176,6 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
         <translation>暂停于指定的时间后快退:</translation>
     </message>
     <message>
-        <source>Media Time Stamp format:</source>
-        <translation>媒体时间戳格式:</translation>
-    </message>
-    <message>
         <source>Treat all documents with subdocuments as folders</source>
         <translation>将包含子文档的所有文档视为文件夹</translation>
     </message>
@@ -7195,8 +7184,16 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
         <translation>拍摄快照时显示通知</translation>
     </message>
     <message>
+        <source>Media Time Stamp format:</source>
+        <translation>媒体时间戳格式:</translation>
+    </message>
+    <message>
         <source>1 second</source>
         <translation>1秒</translation>
+    </message>
+    <message>
+        <source>Open new document links in:</source>
+        <translation>打开新文档链接于:</translation>
     </message>
     <message>
         <source>Image links create back-link bookmarks</source>
@@ -7224,7 +7221,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Hide main window in composition mode</source>
-        <translation>在创作模式下隐藏主窗口</translation>
+        <translation>在沉浸模式下隐藏主窗口</translation>
     </message>
     <message>
         <source>Double-clicking corkboard background:</source>
@@ -7252,7 +7249,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Include enclosing folder text in scrivenings mode</source>
-        <translation>在组合模式中包含封闭的文件夹文本</translation>
+        <translation>在组合模式中包含容器文件夹文本</translation>
     </message>
     <message>
         <source>Seventh</source>
@@ -7272,7 +7269,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Open composition mode on:</source>
-        <translation>开启创作模式于:</translation>
+        <translation>开启沉浸模式于:</translation>
     </message>
     <message>
         <source>Collapse auto-expanded outline items after drag and drop</source>
@@ -7284,7 +7281,7 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     </message>
     <message>
         <source>Return Key</source>
-        <translation>回车键</translation>
+        <translation>换行键</translation>
     </message>
     <message>
         <source>Allow drop ons in corkboard</source>
@@ -7293,6 +7290,10 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     <message>
         <source>Automatically load web pages in bookmarks preview</source>
         <translation>在书签预览中自动加载网页</translation>
+    </message>
+    <message>
+        <source>Open Inspector bookmarks in:</source>
+        <translation>打开检查器书签于:</translation>
     </message>
     <message>
         <source>Opens the parent corkboard</source>
@@ -7309,14 +7310,6 @@ Use &lt;$outputname&gt; to include the output file name in the arguments. This w
     <message>
         <source>Open clicked document links in:</source>
         <translation>打开单击的文档链接于:</translation>
-    </message>
-    <message>
-        <source>Open new document links in:</source>
-        <translation>打开新文档链接于:</translation>
-    </message>
-    <message>
-        <source>Open Inspector bookmarks in:</source>
-        <translation>打开检查器书签于:</translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -7951,7 +7944,7 @@ Choose a template to create  project from.</source>
     </message>
     <message>
         <source>&quot;%1&quot; already exists. Do you want to replace it?</source>
-        <translation>%1 &quot;已经存在。你想替换它吗？</translation>
+        <translation>&quot;%1&quot;已经存在。你想替换它吗？</translation>
     </message>
     <message>
         <source>No template selection</source>
@@ -8060,11 +8053,11 @@ Scrivener文件夹。&quot;%2&quot;</translation>
     </message>
     <message>
         <source>ePub 2</source>
-        <translation>电子书 2</translation>
+        <translation>ePub 2</translation>
     </message>
     <message>
         <source>ePub 3</source>
-        <translation>电子书3</translation>
+        <translation>ePub 3</translation>
     </message>
     <message>
         <source>Fountain</source>
@@ -8589,10 +8582,6 @@ You can also start Scrivener v1 and deactivate your current license manually via
         <translation>选择相似格式(&amp;F)</translation>
     </message>
     <message>
-        <source>Select Ann&amp;otation</source>
-        <translation>选择注释(&amp;O)</translation>
-    </message>
-    <message>
         <source>Single Dotted Underline</source>
         <translation>单点式下划线</translation>
     </message>
@@ -8745,6 +8734,10 @@ You can also start Scrivener v1 and deactivate your current license manually via
         <translation>删除当前修订颜色(&amp;C)</translation>
     </message>
     <message>
+        <source>Select Ann&amp;otation</source>
+        <translation>选择注释(&amp;O)</translation>
+    </message>
+    <message>
         <source>Convert Inline Footnotes to Inspector Foot&amp;notes</source>
         <translation>将内联脚注转换为检查器脚注(&amp;N)</translation>
     </message>
@@ -8807,6 +8800,10 @@ You can also start Scrivener v1 and deactivate your current license manually via
     <message>
         <source>Inline Foot&amp;note</source>
         <translation>内联脚注(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Reset Indents to Defaults</source>
+        <translation>重置缩进为默认值(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Color...</source>
@@ -8997,12 +8994,12 @@ You can also start Scrivener v1 and deactivate your current license manually via
         <translation>查找选定内容(&amp;U)</translation>
     </message>
     <message>
-        <source>&amp;Next List Style</source>
-        <translation>下一个列表样式(&amp;N)</translation>
+        <source>&amp;Jump to Selection</source>
+        <translation>跳到选中内容(&amp;J)</translation>
     </message>
     <message>
-        <source>&amp;Reset Indents to Defaults</source>
-        <translation>重置缩进为默认值(&amp;R)</translation>
+        <source>&amp;Next List Style</source>
+        <translation>下一个列表样式(&amp;N)</translation>
     </message>
     <message>
         <source>Remove &amp;All Revisions</source>
@@ -9107,6 +9104,10 @@ Please choose whether you would like to affect the formatting only for this proj
     <message>
         <source>&amp;Non-Breaking Space</source>
         <translation>不间断空格(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Interview</source>
+        <translation>面试</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
@@ -9266,7 +9267,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Append Selection to &amp;Document</source>
-        <translation>将选择的内容添加到文档中(&amp;D)</translation>
+        <translation>将选定内容添加到文档中(&amp;D)</translation>
     </message>
     <message>
         <source>Inline Footnotes to Inline &amp;Annotations</source>
@@ -9489,7 +9490,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Tab/Return</source>
-        <translation>制表符键/回车键</translation>
+        <translation>制表符键/换行键</translation>
     </message>
     <message>
         <source>Center</source>
@@ -9529,7 +9530,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Add colon before return</source>
-        <translation>在回车前加上冒号</translation>
+        <translation>在换行前加上冒号</translation>
     </message>
     <message>
         <source>Manage</source>
@@ -9609,7 +9610,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>On return:</source>
-        <translation>回车键激活:</translation>
+        <translation>换行键激活:</translation>
     </message>
     <message>
         <source>Go to next line</source>
@@ -9943,7 +9944,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Goto &gt; Enclosing Group</source>
-        <translation>转到 &gt; 封闭组</translation>
+        <translation>转到 &gt; 容器组</translation>
     </message>
     <message>
         <source>Writing Tools &gt; Look Up in Dictionary</source>
@@ -10015,7 +10016,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Editor Layout &gt; Split Vertically</source>
-        <translation>编辑器版面设计 &gt; 垂直拆分</translation>
+        <translation>编辑器布局 &gt; 左右拆分</translation>
     </message>
     <message>
         <source>Move Focus To &gt; Right | Bottom Editor</source>
@@ -10071,11 +10072,11 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Editor Layout &gt; Split Horizontally</source>
-        <translation>编辑器版面设计 &gt; 水平拆分</translation>
+        <translation>编辑器布局 &gt; 上下拆分</translation>
     </message>
     <message>
         <source>Move &gt; Text Right</source>
-        <translation>移动 &gt; 文字右转</translation>
+        <translation>移动 &gt; 文字向右</translation>
     </message>
     <message>
         <source>Snapshots &gt; Take Snapshot</source>
@@ -10171,7 +10172,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Composition Mode</source>
-        <translation>创作模式</translation>
+        <translation>沉浸模式</translation>
     </message>
     <message>
         <source>Outline &gt; Hoist Binder</source>
@@ -10391,7 +10392,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Compile...</source>
-        <translation>编译...</translation>
+        <translation>编纂...</translation>
     </message>
     <message>
         <source>Import &gt; Files...</source>
@@ -10627,7 +10628,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Editor &gt; Lock in Place</source>
-        <translation>编辑 &gt; 锁定位置</translation>
+        <translation>编辑 &gt; 锁定到此处</translation>
     </message>
     <message>
         <source>White Circle Bullet List</source>
@@ -10715,7 +10716,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Goto &gt; Composition Mode Go To Menu</source>
-        <translation>转到&gt;创作模式 转到菜单</translation>
+        <translation>转到&gt;沉浸模式 转到菜单</translation>
     </message>
     <message>
         <source>Decimal Sub-Numbered Bullet List</source>
@@ -11022,7 +11023,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Count current compile group only</source>
-        <translation>仅计数当前编译组</translation>
+        <translation>仅计数当前编纂组</translation>
     </message>
     <message>
         <source>Show overrun</source>
@@ -11050,7 +11051,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Only count documents set to be included in Compile</source>
-        <translation>仅计数设置为包含在编译中的文档</translation>
+        <translation>仅计数设置为包含在编纂中的文档</translation>
     </message>
     <message>
         <source>Overrun allowance:</source>
@@ -11539,7 +11540,7 @@ Please choose whether you would like to affect the formatting only for this proj
     </message>
     <message>
         <source>Single Return</source>
-        <translation>单回车</translation>
+        <translation>仅换行</translation>
     </message>
     <message>
         <source>Keywords Property</source>
@@ -11607,6 +11608,10 @@ Please choose whether you would like to affect the formatting only for this proj
     <message>
         <source>&amp;Check for Updates...</source>
         <translation>检查更新(&amp;C)...</translation>
+    </message>
+    <message>
+        <source>O&amp;pen</source>
+        <translation>打开(&amp;P)</translation>
     </message>
     <message>
         <source>Label</source>
@@ -11724,7 +11729,7 @@ Error: %1</source>
     </message>
     <message>
         <source>Open &amp;Non-Group Items on Right</source>
-        <translation>打开右侧的未分组条目(&amp;N)</translation>
+        <translation>打开未分组条目于右侧编辑器(&amp;N)</translation>
     </message>
     <message>
         <source>Continue closing without backing up?</source>
@@ -12177,10 +12182,6 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
         <translation>在编辑器中(&amp;E)</translation>
     </message>
     <message>
-        <source>O&amp;pen</source>
-        <translation>打开(&amp;P)</translation>
-    </message>
-    <message>
         <source>&amp;Documents</source>
         <translation>文档(&amp;D)</translation>
     </message>
@@ -12238,7 +12239,7 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
     </message>
     <message>
         <source>Open &amp;Non-Group Items on Bottom</source>
-        <translation>打开底部的未分组条目(&amp;N)</translation>
+        <translation>打开未分组条目于底部编辑器(&amp;N)</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in the trash permanently?</source>
@@ -12306,7 +12307,7 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
     </message>
     <message>
         <source>The project will be safely closed and its &quot;UI&quot; preference file will be deleted, restoring the project&apos;s appearance options to factory settings. Label tinting, displayed outliner columns, index card size, editor splits, ruler visibility, and all other interface settings will be reset. The project data (documents, notes, metadata, snapshots, etc.) will not be affected. Continue?</source>
-        <translation>该项目将被安全关闭，其 &quot;用户界面 &quot;首选项文件将被删除，将项目的外观选项恢复到出厂设置。标签着色、显示的大纲栏、索引卡大小、编辑器拆分、标尺可见性以及所有其他界面设置将被重置。项目数据（文档、笔记、元数据、快照等）将不会受到影响。继续吗？</translation>
+        <translation>该项目将被安全关闭，其 &quot;用户界面 &quot;偏好文件将被删除，将项目的外观选项恢复到出厂设置。标签着色、显示的大纲栏、索引卡大小、编辑器拆分、标尺可见性以及所有其他界面设置将被重置。项目数据（文档、笔记、元数据、快照等）将不会受到影响。继续吗？</translation>
     </message>
     <message>
         <source>Cannot import Styles from the same project.</source>
@@ -12346,7 +12347,7 @@ Scrivener 已尝试找出它应该使用哪一个进行同步，并将另一个�
     </message>
     <message>
         <source>A project folder with the same name already exists: &quot;%1&quot;</source>
-        <translation>一个同名的项目文件夹已经存在。&quot;%1&quot;</translation>
+        <translation>一个同名的项目文件夹已经存在: &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
@@ -13263,7 +13264,7 @@ Continue anyway?</source>
     </message>
     <message>
         <source>Writing Compile Settings...</source>
-        <translation>编写编译设置...</translation>
+        <translation>写作编纂设置...</translation>
     </message>
     <message>
         <source>Your e-mail address</source>
@@ -13388,7 +13389,7 @@ Continue anyway?</source>
     </message>
     <message>
         <source>Include in Compile</source>
-        <translation>包括到编译</translation>
+        <translation>包括到编纂</translation>
     </message>
     <message>
         <source>Untitled File</source>
@@ -13548,7 +13549,7 @@ You might also try to compile and save to RTF or DOC format to avoid losing your
 
 为了避免丢失你的最新修改，请确保你的存储设备有足够的空间和写入权限。
 你可以使用菜单 &quot;文件&quot;&gt;&quot;另存为 &quot;将你的项目复制到其他位置。
-你也可以尝试编译并保存为RTF或DOC格式，以避免丢失你的最新修改。</translation>
+你也可以尝试编纂并保存为RTF或DOC格式，以避免丢失你的最新修改。</translation>
     </message>
     <message>
         <source>Your project is within the Scrivener installation folder.</source>
@@ -13758,7 +13759,7 @@ You might also try to compile and save to RTF or DOC format to avoid losing your
     <name>SCRCopyholderWidget</name>
     <message>
         <source>Top</source>
-        <translation>顶</translation>
+        <translation>顶部</translation>
     </message>
     <message>
         <source>Left</source>
@@ -13774,7 +13775,7 @@ You might also try to compile and save to RTF or DOC format to avoid losing your
     </message>
     <message>
         <source>Bottom</source>
-        <translation>底</translation>
+        <translation>底部</translation>
     </message>
     <message>
         <source>&amp;Recent</source>
@@ -13920,7 +13921,7 @@ Do you want to continue with creation of the eBook?</source>
     </message>
     <message>
         <source>Could not create TXT images compile folder: &quot;%1&quot;</source>
-        <translation>无法创建TXT图像编译文件夹。&quot;%1&quot;</translation>
+        <translation>无法创建TXT图像编纂文件夹。&quot;%1&quot;</translation>
     </message>
     <message>
         <source>seventy-seven</source>
@@ -13968,7 +13969,7 @@ Do you want to continue with creation of the eBook?</source>
     </message>
     <message>
         <source>Compiling ePub files...</source>
-        <translation>正在编译 ePub 文件...</translation>
+        <translation>正在编纂 ePub 文件...</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -13998,7 +13999,7 @@ Please, check if you have enough space and write permissions at your system temp
     </message>
     <message>
         <source>Compile %1</source>
-        <translation>编译 %1</translation>
+        <translation>编纂 %1</translation>
     </message>
     <message>
         <source>ninety</source>
@@ -14062,11 +14063,11 @@ Please, check if you have enough space and write permissions at your system temp
     </message>
     <message>
         <source>Compiling files...</source>
-        <translation>正在编译文件...</translation>
+        <translation>正在编纂文件...</translation>
     </message>
     <message>
         <source>Scrivener Compiler</source>
-        <translation>Scrivener编译器</translation>
+        <translation>Scrivener编纂器</translation>
     </message>
     <message>
         <source>sixty-five</source>
@@ -14234,7 +14235,7 @@ Please, check if you have enough space and write permissions at your system temp
     </message>
     <message>
         <source>Compile Error</source>
-        <translation>编译错误</translation>
+        <translation>编纂错误</translation>
     </message>
     <message>
         <source>No Documents found to export to the eBook.
@@ -14290,7 +14291,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Could not create MMD compile folder: &quot;%1&quot;</source>
-        <translation>无法创建MMD编译文件夹。&quot;%1&quot;</translation>
+        <translation>无法创建MMD编纂文件夹。&quot;%1&quot;</translation>
     </message>
     <message>
         <source>%1 Creator Error</source>
@@ -14334,7 +14335,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Abort Compile</source>
-        <translation>中止编译</translation>
+        <translation>中止编纂</translation>
     </message>
     <message>
         <source>one hundred</source>
@@ -14520,7 +14521,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Select Location for Scratchpad Notes</source>
-        <translation>选择便笺笔记的位置</translation>
+        <translation>选择便笺位置</translation>
     </message>
     <message>
         <source>Default format:</source>
@@ -14535,8 +14536,16 @@ An eBook cannot be generated with empty contents</source>
         <translation>清空(&amp;C)</translation>
     </message>
     <message>
-        <source>Automatically quit after an inactive period of:</source>
-        <translation>在以下时间处于非活动状态后自动退出:</translation>
+        <source>Automatic Quit</source>
+        <translation>自动退出</translation>
+    </message>
+    <message>
+        <source>Automatically quit after a period of inactivity</source>
+        <translation>一段时间不活动后自动退出</translation>
+    </message>
+    <message>
+        <source>Quit after inactive for:</source>
+        <translation>不活动:</translation>
     </message>
     <message>
         <source>Bibliography/Citations Manager</source>
@@ -14547,8 +14556,12 @@ An eBook cannot be generated with empty contents</source>
         <translation>启用高分辨率支持。</translation>
     </message>
     <message>
+        <source>Check for beta updates.</source>
+        <translation>检查测试版更新。</translation>
+    </message>
+    <message>
         <source>Notes Location:</source>
-        <translation>笔记 位置:</translation>
+        <translation>便笺 位置:</translation>
     </message>
     <message>
         <source>Phone Number:</source>
@@ -14580,15 +14593,11 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Split Horizontally</source>
-        <translation>水平拆分</translation>
+        <translation>上下拆分</translation>
     </message>
     <message>
         <source>Automatically check for updates:</source>
         <translation>自动检查更新:</translation>
-    </message>
-    <message>
-        <source>Check for beta updates.</source>
-        <translation>检查测试版更新。</translation>
     </message>
     <message>
         <source>Show template chooser when there are no projects open.</source>
@@ -14688,7 +14697,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Split Vertically</source>
-        <translation>垂直拆分</translation>
+        <translation>左右拆分</translation>
     </message>
     <message>
         <source>Reset All Warnings</source>
@@ -14746,6 +14755,10 @@ An eBook cannot be generated with empty contents</source>
         <translation>纯文本</translation>
     </message>
     <message>
+        <source>O&amp;pen</source>
+        <translation>打开(&amp;P)</translation>
+    </message>
+    <message>
         <source>Remove Snapshot</source>
         <translation>移除快照</translation>
     </message>
@@ -14796,10 +14809,6 @@ An eBook cannot be generated with empty contents</source>
     <message>
         <source>Re&amp;veal in Binder</source>
         <translation>在活页夹中显示(&amp;V)</translation>
-    </message>
-    <message>
-        <source>O&amp;pen</source>
-        <translation>打开(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -15006,6 +15015,10 @@ An eBook cannot be generated with empty contents</source>
         <translation>文件(&amp;F)...</translation>
     </message>
     <message>
+        <source>O&amp;pen</source>
+        <translation>打开(&amp;P)</translation>
+    </message>
+    <message>
         <source>Label</source>
         <translation>标签</translation>
     </message>
@@ -15107,11 +15120,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Enclosing &amp;Group</source>
-        <translation>封闭组(&amp;G)</translation>
-    </message>
-    <message>
-        <source>&amp;Selection</source>
-        <translation>选择(&amp;S)</translation>
+        <translation>容器组(&amp;G)</translation>
     </message>
     <message>
         <source>Find by F&amp;ormatting...</source>
@@ -15144,6 +15153,10 @@ An eBook cannot be generated with empty contents</source>
     <message>
         <source>&amp;Label</source>
         <translation>标签(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Selection</source>
+        <translation>选择(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Append Synopsis to Main Text</source>
@@ -15180,7 +15193,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>&amp;Lock in Place</source>
-        <translation>锁定位置(&amp;L)</translation>
+        <translation>锁定到此处(&amp;L)</translation>
     </message>
     <message>
         <source>Import and &amp;Split...</source>
@@ -15204,7 +15217,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>&amp;Composition Mode</source>
-        <translation>创作模式(&amp;C)</translation>
+        <translation>沉浸模式(&amp;C)</translation>
     </message>
     <message>
         <source>Import an outliner or mindmap file.)</source>
@@ -15224,7 +15237,11 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Composition Mode</source>
-        <translation>创作模式</translation>
+        <translation>沉浸模式</translation>
+    </message>
+    <message>
+        <source>De&amp;fault Template for Subdocuments</source>
+        <translation>子文档的默认模板(&amp;F)</translation>
     </message>
     <message>
         <source>Format Bar</source>
@@ -15244,7 +15261,7 @@ An eBook cannot be generated with empty contents</source>
     </message>
     <message>
         <source>Open &amp;Non-Group Items in Other</source>
-        <translation>打开未分组条目于其他(&amp;N)</translation>
+        <translation>打开未分组条目于另一个编辑器(&amp;N)</translation>
     </message>
     <message>
         <source>Change Shortcut &amp;Target...</source>
@@ -15462,7 +15479,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>&amp;Compile...</source>
-        <translation>编译(&amp;C)...</translation>
+        <translation>编纂(&amp;C)...</translation>
     </message>
     <message>
         <source>&amp;Clear Title</source>
@@ -15470,7 +15487,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Split &amp;Horizontally</source>
-        <translation>水平拆分(&amp;H)</translation>
+        <translation>上下拆分(&amp;H)</translation>
     </message>
     <message>
         <source>Open in Other Editor</source>
@@ -15605,10 +15622,6 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
         <translation>更改图标(&amp;H)</translation>
     </message>
     <message>
-        <source>De&amp;fault Template for Subdocuments</source>
-        <translation>子文档的默认模板(&amp;F)</translation>
-    </message>
-    <message>
         <source>New &amp;Text</source>
         <translation>新建文本(&amp;T)</translation>
     </message>
@@ -15618,7 +15631,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>with Compilable Subdocuments</source>
-        <translation>具有可编译的子文档</translation>
+        <translation>具有可编纂的子文档</translation>
     </message>
     <message>
         <source>Sho&amp;w Snapshots</source>
@@ -15714,7 +15727,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>in &amp;Editor</source>
-        <translation>在 &amp;Editor</translation>
+        <translation>在编辑器中(&amp;E)</translation>
     </message>
     <message>
         <source>Import Styles...</source>
@@ -15898,7 +15911,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Split &amp;Vertically</source>
-        <translation>垂直拆分(&amp;V)</translation>
+        <translation>左右拆分(&amp;V)</translation>
     </message>
     <message>
         <source>Take &amp;Snapshot</source>
@@ -16109,10 +16122,6 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
         <translation>在活页夹中显示(&amp;V)</translation>
     </message>
     <message>
-        <source>O&amp;pen</source>
-        <translation>打开(&amp;P)</translation>
-    </message>
-    <message>
         <source>Fit to &amp;Width</source>
         <translation>适合宽度(&amp;W)</translation>
     </message>
@@ -16146,7 +16155,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Lock &amp;Inspector to Current Editor</source>
-        <translation>将检查器锁定到编辑器(&amp;I)</translation>
+        <translation>将检查器锁定到当前编辑器(&amp;I)</translation>
     </message>
     <message>
         <source>with &amp;Mobile Devices</source>
@@ -16169,7 +16178,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     <name>SCRCorkboard</name>
     <message>
         <source>&amp;Top</source>
-        <translation>顶(&amp;T)</translation>
+        <translation>顶部(&amp;T)</translation>
     </message>
     <message>
         <source>Grid</source>
@@ -16293,7 +16302,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>&amp;Bottom</source>
-        <translation>底(&amp;B)</translation>
+        <translation>底部(&amp;B)</translation>
     </message>
     <message>
         <source>New &amp;Folder</source>
@@ -16313,7 +16322,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>&amp;Bottom to Top</source>
-        <translation>从下到上(&amp;B)</translation>
+        <translation>从底部到顶部(&amp;B)</translation>
     </message>
     <message>
         <source>Corkboard Mode</source>
@@ -16325,7 +16334,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>&amp;Top to Bottom</source>
-        <translation>从上到下(&amp;T)</translation>
+        <translation>从顶部到底部(&amp;T)</translation>
     </message>
 </context>
 <context>
@@ -16435,7 +16444,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>&amp;Facing Pages</source>
-        <translation>双页(&amp;F)</translation>
+        <translation>偶数页(&amp;F)</translation>
     </message>
     <message>
         <source>Pre&amp;vious Page</source>
@@ -17820,7 +17829,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>Enclosing Group</source>
-        <translation>封闭组</translation>
+        <translation>容器组</translation>
     </message>
     <message>
         <source>Third Revision</source>
@@ -17999,7 +18008,7 @@ View a group of document&apos;s or folder&apos;s subdocuments as scrivenings
     </message>
     <message>
         <source>German (Guillemets)</source>
-        <translation>德文（Guillemets</translation>
+        <translation>德文(Guillemets)</translation>
     </message>
 </context>
 <context>
@@ -18193,7 +18202,7 @@ Do you want to overwrite it?</source>
         <source>%1: &apos;%2&apos; already exists.
 
 Do you want to overwrite it?</source>
-        <translation>%1：&apos;%2&apos; 已存在。.
+        <translation>%1：&apos;%2&apos; 已存在。
 
 您确定要覆盖它吗？</translation>
     </message>
@@ -18401,7 +18410,7 @@ Please, replace the special characters: * : / \ ? &lt; &gt; | = ; [] , ^ %</sour
     </message>
     <message>
         <source>Inserted at the bottom of the compiled document:</source>
-        <translation>插入在编译文档的底部:</translation>
+        <translation>插入在编纂文档的底部:</translation>
     </message>
     <message>
         <source>LaTeX document class:</source>
@@ -18444,7 +18453,7 @@ Please, replace the special characters: * : / \ ? &lt; &gt; | = ; [] , ^ %</sour
     </message>
     <message>
         <source>Include in Compile</source>
-        <translation>包括到编译</translation>
+        <translation>包括到编纂</translation>
     </message>
     <message>
         <source>datetime</source>
@@ -18459,7 +18468,7 @@ Please, replace the special characters: * : / \ ? &lt; &gt; | = ; [] , ^ %</sour
 included in the compiled draft (applies to
 text documents inside the Draft folder only).</source>
         <translation>如果取消选定，则此文档将不会
-包含到编译稿内（仅应用到
+包含到编纂草稿内（仅应用到
 草稿文件夹内的文档）。</translation>
     </message>
     <message>
@@ -18770,7 +18779,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Treat compile group as complete manuscript</source>
-        <translation>将编译组视为完整手稿</translation>
+        <translation>将编纂组视为完整手稿</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -18794,7 +18803,7 @@ Please, select another file.</source>
     </message>
     <message>
         <source>Compile:</source>
-        <translation>编译:</translation>
+        <translation>编纂:</translation>
     </message>
     <message>
         <source>Lock front matter settings to current file format.</source>
@@ -19022,8 +19031,12 @@ Please, select another file.</source>
         <translation>转到文档(&amp;D)</translation>
     </message>
     <message>
+        <source>O&amp;pen</source>
+        <translation>打开(&amp;P)</translation>
+    </message>
+    <message>
         <source>Lock in Pla&amp;ce</source>
-        <translation>锁定位置(&amp;C)</translation>
+        <translation>锁定到此处(&amp;C)</translation>
     </message>
     <message>
         <source>(No Text)</source>
@@ -19080,10 +19093,6 @@ Please, select another file.</source>
     <message>
         <source>Re&amp;veal in Binder</source>
         <translation>在活页夹中显示(&amp;V)</translation>
-    </message>
-    <message>
-        <source>O&amp;pen</source>
-        <translation>打开(&amp;P)</translation>
     </message>
     <message>
         <source>Untitled Folder</source>
@@ -19740,11 +19749,11 @@ Enabled: %6</source>
     </message>
     <message>
         <source>Don&apos;t include in compile</source>
-        <translation>编译时不包括</translation>
+        <translation>编纂时不包括</translation>
     </message>
     <message>
         <source>Include in compile</source>
-        <translation>编译时包括</translation>
+        <translation>编纂时包括</translation>
     </message>
     <message>
         <source>Structure Based (from &quot;%1&quot;)</source>
@@ -19811,7 +19820,7 @@ Enabled: %6</source>
     </message>
     <message>
         <source>character</source>
-        <translation>特征</translation>
+        <translation>字符</translation>
     </message>
     <message>
         <source>Words: %1</source>
@@ -19854,7 +19863,7 @@ Enabled: %6</source>
     </message>
     <message>
         <source>Synopses</source>
-        <translation>纲要</translation>
+        <translation>概要</translation>
     </message>
     <message>
         <source>Include all text</source>
@@ -19878,7 +19887,7 @@ Enabled: %6</source>
     </message>
     <message>
         <source>Exclude back matter</source>
-        <translation>不包括后面的内容</translation>
+        <translation>不包括文后页</translation>
     </message>
     <message>
         <source>Word and character counts:</source>
@@ -19886,7 +19895,7 @@ Enabled: %6</source>
     </message>
     <message>
         <source>Exclude front matter</source>
-        <translation>不包括前面的内容</translation>
+        <translation>不包括文前页</translation>
     </message>
 </context>
 <context>
@@ -20307,7 +20316,7 @@ Scrivener 文件夹。&quot;%2&quot;</translation>
     </message>
     <message>
         <source>Project location does not exist: &quot;%1&quot;</source>
-        <translation>项目地点不存在。&quot;%1&quot;</translation>
+        <translation>项目地点不存在: &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Source Location: &quot;%1&quot;
@@ -20424,7 +20433,7 @@ The recovered files can be found in the &quot;Recovered Files&quot; folder at th
     </message>
     <message>
         <source>&amp;Save Theme to File...</source>
-        <translation>将主题保存到文件...(&amp;S)</translation>
+        <translation>保存主题到文件(&amp;S)...</translation>
     </message>
     <message>
         <source>You selected your current Theme. Do you want to reload it upon Scrivener restart?</source>
@@ -20532,7 +20541,7 @@ The recovered files can be found in the &quot;Recovered Files&quot; folder at th
     </message>
     <message>
         <source>Predefined Themes</source>
-        <translation>预制主题</translation>
+        <translation>预设主题</translation>
     </message>
     <message>
         <source>&amp;Import Themes...</source>
@@ -20815,7 +20824,7 @@ The recovered files can be found in the &quot;Recovered Files&quot; folder at th
     </message>
     <message>
         <source>Templates are saved in: &quot;%1&quot;</source>
-        <translation>模板被保存在。&quot;%1&quot;</translation>
+        <translation>模板被保存在: &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Television Script</source>
@@ -20914,7 +20923,7 @@ The recovered files can be found in the &quot;Recovered Files&quot; folder at th
     <name>SCRApplicationActions</name>
     <message>
         <source>Opt&amp;ions...</source>
-        <translation>首选项(&amp;O)</translation>
+        <translation>选项(&amp;O)...</translation>
     </message>
     <message>
         <source>Launches and opens the Scrivener Manual in your default PDF reader.</source>
@@ -21518,11 +21527,11 @@ All text will use the font face &quot;%1&quot;.
     </message>
     <message>
         <source>Compile - Cover</source>
-        <translation>编译--封面</translation>
+        <translation>编纂--封面</translation>
     </message>
     <message>
         <source>First Image in Front Matter Folder</source>
-        <translation>正面文件夹中的第一张图片</translation>
+        <translation>文前页文件夹中的第一张图片</translation>
     </message>
 </context>
 <context>
@@ -21612,7 +21621,7 @@ All text will use the font face &quot;%1&quot;.
     </message>
     <message>
         <source>blank lines</source>
-        <translation>空白行</translation>
+        <translation>空行</translation>
     </message>
     <message>
         <source>a recto page</source>
@@ -21685,7 +21694,7 @@ All text will use the font face &quot;%1&quot;.
     </message>
     <message>
         <source>Append Selection to Document</source>
-        <translation>将选择的内容添加到文档中</translation>
+        <translation>将选定内容添加到文档中</translation>
     </message>
 </context>
 <context>
@@ -21798,7 +21807,7 @@ All text will use the font face &quot;%1&quot;.
     </message>
     <message>
         <source>Note that these settings only determine the default section types to use during Compile, and only affect documents whose section type is set to &quot;Structure-Based&quot;. You can override the default for any document by explicitly chosing a section type in the inspector, outliner, or Compile contents pane, instead of using the &quot;Structure-Based&quot; setting.</source>
-        <translation>请注意，这些设置只决定在编译过程中使用的默认章节类型，并且只影响章节类型被设置为 &quot;基于结构 &quot;的文档。你可以通过在检查器、大纲或编译内容窗格中明确选择一个章节类型，而不是使用 &quot;基于结构 &quot;的设置来覆盖任何文档的默认值。</translation>
+        <translation>请注意，这些设置只决定在编纂过程中使用的默认章节类型，并且只影响章节类型被设置为 &quot;基于结构 &quot;的文档。你可以通过在检查器、大纲或编纂内容窗格中明确选择一个章节类型，而不是使用 &quot;基于结构 &quot;的设置来覆盖任何文档的默认值。</translation>
     </message>
     <message>
         <source>Draft folder = root</source>
@@ -21914,6 +21923,10 @@ All text will use the font face &quot;%1&quot;.
         <translation>缩放(&amp;Z)</translation>
     </message>
     <message>
+        <source>O&amp;pen</source>
+        <translation>打开(&amp;P)</translation>
+    </message>
+    <message>
         <source>&amp;Inspect</source>
         <translation>检查器(&amp;I)</translation>
     </message>
@@ -21980,10 +21993,6 @@ All text will use the font face &quot;%1&quot;.
     <message>
         <source>Re&amp;veal in Binder</source>
         <translation>在活页夹中显示(&amp;V)</translation>
-    </message>
-    <message>
-        <source>O&amp;pen</source>
-        <translation>打开(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -22320,7 +22329,7 @@ File: &apos;%1&apos;</source>
     </message>
     <message>
         <source>ePub Ebook (.epub)</source>
-        <translation>电子书(.epub)</translation>
+        <translation>ePub 电子书(.epub)</translation>
     </message>
     <message>
         <source>Rich Text (.rtf)</source>
@@ -22423,6 +22432,10 @@ Add Imported Styles: the above styles will be added to the project without repla
     <message>
         <source>Audio Common</source>
         <translation>普通音频</translation>
+    </message>
+    <message>
+        <source>O&amp;pen</source>
+        <translation>打开(&amp;)</translation>
     </message>
     <message>
         <source>&amp;Web Page to Text</source>
@@ -22647,10 +22660,6 @@ Add Imported Styles: the above styles will be added to the project without repla
         <translation>转换为文件(&amp;L)</translation>
     </message>
     <message>
-        <source>O&amp;pen</source>
-        <translation>打开(&amp;)</translation>
-    </message>
-    <message>
         <source>New Collection</source>
         <translation>新建集合</translation>
     </message>
@@ -22718,7 +22727,7 @@ Add Imported Styles: the above styles will be added to the project without repla
     </message>
     <message>
         <source>Do you wish to import the Scratchpad document from the previous version of Scrivener to the new Scratchpad location?</source>
-        <translation>您要导入 Scrivener 旧版本的便笺笔记文档到新的Scratchpad位置？</translation>
+        <translation>您要导入 Scrivener 旧版本的便笺文档到新的便笺位置？</translation>
     </message>
     <message>
         <source>Cannot write file: &apos;%1&apos;</source>
@@ -22746,7 +22755,7 @@ Error: %2</source>
     </message>
     <message>
         <source>Deleting the selected Scratchpad note will remove the file from disk and cannot be undone. Continue?</source>
-        <translation>删除选定的便笺笔记将从磁盘中删除文件，并且不能撤销。继续吗？</translation>
+        <translation>删除选定的便笺将从磁盘中删除文件，并且不能撤销。继续吗？</translation>
     </message>
     <message>
         <source>Directory Access Error</source>
@@ -22838,7 +22847,7 @@ Please, specify a different name.</source>
     <name>SCRCompileFormatSectionLayouts</name>
     <message>
         <source>Assigned to:</source>
-        <translation>被分配到:</translation>
+        <translation>分配至:</translation>
     </message>
     <message>
         <source>Include placeholder titles for untitled items</source>
@@ -22846,7 +22855,7 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>&lt;html&gt;If not all Section Layouts are used by the documents being compiled, those that are in use are displayed in bold.&lt;br/&gt;&lt;br/&gt;This footer bar shows which Section Types in the project use the selected layout.&lt;br/&gt;&lt;br/&gt;To change which Section Layouts are used, click &quot;Assign Section Layouts&quot; back in the main Compile windows.&lt;/html&gt;</source>
-        <translation>&lt;html&gt;如果不是所有的章节布局都被正在编译的文档使用，那些正在使用的布局将以粗体显示。&lt;br/&gt;&lt;br/&gt;这个页脚栏显示项目中哪些章节类型使用所选的布局。&lt;br/&gt;&lt;br/&gt;要改变哪些章节布局被使用，请在主编译窗口点击 &quot;指定章节布局&quot;。</translation>
+        <translation>&lt;html&gt;如果不是所有的章节布局都被正在编纂的文档使用，那些正在使用的布局将以粗体显示。&lt;br/&gt;&lt;br/&gt;这个页脚栏显示项目中哪些章节类型使用所选的布局。&lt;br/&gt;&lt;br/&gt;要改变哪些章节布局被使用，请在主编纂窗口点击 &quot;指定章节布局&quot;。</translation>
     </message>
     <message>
         <source>Do not add prefix or suffix for placeholder titles</source>
@@ -22866,7 +22875,98 @@ Please, specify a different name.</source>
     </message>
     <message>
         <source>Insert subtitles between text elements</source>
-        <translation>在文本要素之间插入字幕</translation>
+        <translation>在文本要素之间插入副标题</translation>
+    </message>
+</context>
+<context>
+    <name>SCRBookmarksView</name>
+    <message>
+        <source>Open in External E&amp;ditor</source>
+        <translation>在外部编辑器内打开(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Add External File Bookmark</source>
+        <translation>添加外部文件书签</translation>
+    </message>
+    <message>
+        <source>View on Copy&amp;holder</source>
+        <translation>在校对助手中查看(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Drag in documents or external files to create bookmarks.</source>
+        <translation>拖入文件或外部文件来创建书签</translation>
+    </message>
+    <message>
+        <source>&amp;Rename Document</source>
+        <translation>重命名文档(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Add External &amp;File Bookmark...</source>
+        <translation>添加外部文件书签(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>&amp;Delete Selected Bookmarks</source>
+        <translation>删除选定的书签(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete Selected Bookmark</source>
+        <translation>删除选定的书签(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Open in &amp;Other Editor</source>
+        <translation>在另一个编辑器内打开(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Bookmark options.</source>
+        <translation>书签选项</translation>
+    </message>
+    <message>
+        <source>Open in &amp;Editor</source>
+        <translation>在编辑器中打开(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Copy &amp;URL</source>
+        <translation>复制URL(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Reveal in &amp;Binder</source>
+        <translation>在活页夹中显示(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Create a new document and add it as a bookmark.</source>
+        <translation>创建一个新的文档并将其添加为书签</translation>
+    </message>
+    <message>
+        <source>Remove selected bookmark</source>
+        <translation>删除选定的书签</translation>
+    </message>
+    <message>
+        <source>Open as &amp;Quick Reference</source>
+        <translation>打开为快速参考(&amp;Q)</translation>
+    </message>
+    <message>
+        <source>Open in &amp;Current Editor</source>
+        <translation>打开于当前编辑器内(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Open &amp;File Location</source>
+        <translation>打开文件位置(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Add &amp;Internal Bookmark...</source>
+        <translation>添加内部书签(&amp;I)...</translation>
+    </message>
+    <message>
+        <source>Add &amp;Internal Bookmark</source>
+        <translation>添加内部书签(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Add &amp;External Bookmark</source>
+        <translation>添加外部书签(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Bookmark</source>
+        <translation>编辑书签(&amp;E)</translation>
     </message>
 </context>
 <context>
@@ -23572,7 +23672,7 @@ Try selecting &quot;Check for Updates...&quot; from the Help menu to look for up
     </message>
     <message>
         <source>Remove directory at: %1</source>
-        <translation>删除目录在。%1</translation>
+        <translation>删除目录在: %1</translation>
     </message>
     <message>
         <source>Could not open application settings at: %1</source>
@@ -23580,11 +23680,11 @@ Try selecting &quot;Check for Updates...&quot; from the Help menu to look for up
     </message>
     <message>
         <source>Remove compile settings: %1</source>
-        <translation>移除编译设置：%1</translation>
+        <translation>移除编纂设置：%1</translation>
     </message>
     <message>
         <source>Could not remove exported compile settings at: %1</source>
-        <translation>无法删除导出的编译设置，在。%1</translation>
+        <translation>无法删除导出的编纂设置，在: %1</translation>
     </message>
     <message>
         <source>File &apos;%1&apos; already exists.</source>
@@ -23638,7 +23738,7 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Compile Settings &apos;%1&apos; already exists. </source>
-        <translation>编译设置&apos;%1&apos;已经存在。</translation>
+        <translation>编纂设置&apos;%1&apos;已经存在。</translation>
     </message>
     <message>
         <source>The project &quot;%1&quot; could not be opened.</source>
@@ -23666,7 +23766,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Could not import compile settings: %1</source>
-        <translation>无法导入编译设置：%1</translation>
+        <translation>无法导入编纂设置：%1</translation>
     </message>
     <message>
         <source>Directory &apos;%1&apos; already exists.</source>
@@ -23674,7 +23774,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Could not import compile settings at: %1</source>
-        <translation>无法导入编译设置。%1</translation>
+        <translation>无法导入编纂设置: %1</translation>
     </message>
     <message>
         <source>Project &apos;%1&apos; needs to be updated.</source>
@@ -23730,7 +23830,7 @@ Please select another location.</source>
     </message>
     <message>
         <source>Could not open compile settings: %1</source>
-        <translation>无法打开编译设置：%1</translation>
+        <translation>无法打开编纂设置：%1</translation>
     </message>
     <message>
         <source>Could not open application settings: %1</source>
@@ -23788,7 +23888,7 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Could not save compile settings: %1</source>
-        <translation>无法保存编译设置：%1</translation>
+        <translation>无法保存编纂设置：%1</translation>
     </message>
     <message>
         <source>The project at &apos;%1&apos; already exists. If you continue this project will be overwritten. Continue?</source>
@@ -23812,7 +23912,7 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Could not open exported compile settings at: %1</source>
-        <translation>无法打开导出的编译设置，在。%1</translation>
+        <translation>无法打开导出的编纂设置，在: %1</translation>
     </message>
     <message>
         <source>The project at &apos;%1&apos; is from a previous version of Scrivener and needs updating. Updating this project will make it incompatible with earlier versions of Scrivener.</source>
@@ -23820,11 +23920,11 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Could not remove compile settings: %1</source>
-        <translation>无法删除编译设置：%1</translation>
+        <translation>无法删除编纂设置：%1</translation>
     </message>
     <message>
         <source>Reset compile settings to defaults?</source>
-        <translation>将编译设置重置为默认值？</translation>
+        <translation>将编纂设置重置为默认值？</translation>
     </message>
     <message>
         <source>Could not remove directory at: %1</source>
@@ -23840,7 +23940,7 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Compile settings with the name &apos;%1&apos; already exists. If you continue these settings will be overwritten. Continue?</source>
-        <translation>名称为&apos;%1&apos;的编译设置已经存在。如果你继续，这些设置将被覆盖。继续吗？</translation>
+        <translation>名称为&apos;%1&apos;的编纂设置已经存在。如果你继续，这些设置将被覆盖。继续吗？</translation>
     </message>
     <message>
         <source>File at &apos;%1&apos; already exists. If you continue this file will be overwritten. Continue?</source>
@@ -23852,7 +23952,7 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Could not remove exported compile settings: %1</source>
-        <translation>无法删除导出的编译设置：%1</translation>
+        <translation>无法删除导出的编纂设置：%1</translation>
     </message>
     <message>
         <source>Please check the file is not in use by any other application.</source>
@@ -23872,7 +23972,7 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Remove exported compile settings: %1</source>
-        <translation>移除导出的编译设置：%1</translation>
+        <translation>移除导出的编纂设置：%1</translation>
     </message>
     <message>
         <source>Could not create file: %1</source>
@@ -23896,11 +23996,11 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Could not open exported compile settings: %1</source>
-        <translation>无法打开导出的编译设置：%1</translation>
+        <translation>无法打开导出的编纂设置：%1</translation>
     </message>
     <message>
         <source>Remove exported compile settings at: %1</source>
-        <translation>移除位于%1的导出编译设置</translation>
+        <translation>移除位于%1的导出编纂设置</translation>
     </message>
     <message>
         <source>Template &apos;%1&apos; already exists.</source>
@@ -23908,7 +24008,7 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Exported compile settings at &apos;%1&apos; already exists. If you continue these settings will be overwritten. Continue?</source>
-        <translation>在&apos;%1&apos;处导出的编译设置已经存在，是否覆盖该文件？</translation>
+        <translation>在&apos;%1&apos;处导出的编纂设置已经存在，是否覆盖该文件？</translation>
     </message>
     <message>
         <source>Could not read application settings at: %1</source>
@@ -23916,11 +24016,11 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Compile Settings &apos;%1&apos; already exists.</source>
-        <translation>编译设置&apos;%1&apos;已存在</translation>
+        <translation>编纂设置&apos;%1&apos;已存在</translation>
     </message>
     <message>
         <source>Could not save export compile settings: %1</source>
-        <translation>无法保存导出编译设置：%1</translation>
+        <translation>无法保存导出编纂设置：%1</translation>
     </message>
     <message>
         <source>Could not write to the directory at: %1</source>
@@ -23936,11 +24036,90 @@ Please check the file is not in use by any other applications.</source>
     </message>
     <message>
         <source>Could not read compile settings: %1</source>
-        <translation>无法读取编译设置：%1</translation>
+        <translation>无法读取编纂设置：%1</translation>
     </message>
     <message>
         <source>This action will reset your settings to the default values and cannot be undone. Continue?</source>
         <translation>该动作将把你的设置重置为默认值，而且不能撤销，是否继续？</translation>
+    </message>
+</context>
+<context>
+    <name>SCRQuickReferenceWidget</name>
+    <message>
+        <source>O&amp;pen</source>
+        <translation>打开(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation>笔记</translation>
+    </message>
+    <message>
+        <source>Synopsis</source>
+        <translation>概要</translation>
+    </message>
+    <message>
+        <source>No Split</source>
+        <translation>不拆分</translation>
+    </message>
+    <message>
+        <source>Vertical Split</source>
+        <translation>左右拆分</translation>
+    </message>
+    <message>
+        <source>Quick Reference</source>
+        <translation>快速参考</translation>
+    </message>
+    <message>
+        <source>Editor Only</source>
+        <translation>仅编辑器</translation>
+    </message>
+    <message>
+        <source>Custom Metadata</source>
+        <translation>自定义元数据</translation>
+    </message>
+    <message>
+        <source>Bookmarks</source>
+        <translation>书签</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>Format &amp;Bar</source>
+        <translation>格式栏(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Inspector</source>
+        <translation>检查器(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Comment/Footnotes</source>
+        <translation>批注/脚注</translation>
+    </message>
+    <message>
+        <source>Take &amp;Snapshot</source>
+        <translation>拍摄快照(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Keywords</source>
+        <translation>关键字</translation>
+    </message>
+    <message>
+        <source>Format Toolbar</source>
+        <translation>格式工具栏</translation>
+    </message>
+    <message>
+        <source>HorizontalSplit</source>
+        <translation>上下拆分</translation>
+    </message>
+    <message>
+        <source>Horizontal Split</source>
+        <translation>上下拆分</translation>
+    </message>
+    <message>
+        <source>Re&amp;veal in Binder</source>
+        <translation>在活页夹中显示(&amp;V)</translation>
     </message>
 </context>
 <context>
@@ -24075,180 +24254,10 @@ Please check the file is not in use by any other applications.</source>
     </message>
 </context>
 <context>
-    <name>SCRBookmarksView</name>
-    <message>
-        <source>Add External File Bookmark</source>
-        <translation>添加外部文件书签</translation>
-    </message>
-    <message>
-        <source>View on Copy&amp;holder</source>
-        <translation>在校对助手中查看(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Drag in documents or external files to create bookmarks.</source>
-        <translation>拖入文件或外部文件来创建书签</translation>
-    </message>
-    <message>
-        <source>&amp;Rename Document</source>
-        <translation>重命名文档(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Add External &amp;File Bookmark...</source>
-        <translation>添加外部文件书签(&amp;F)...</translation>
-    </message>
-    <message>
-        <source>&amp;Delete Selected Bookmarks</source>
-        <translation>删除选定的书签(&amp;D)</translation>
-    </message>
-    <message>
-        <source>&amp;Delete Selected Bookmark</source>
-        <translation>删除选定的书签(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Open in &amp;Other Editor</source>
-        <translation>在另一个编辑器内打开(&amp;O)</translation>
-    </message>
-    <message>
-        <source>Open in External E&amp;ditor</source>
-        <translation>在外部编辑器内打开(&amp;D)</translation>
-    </message>
-    <message>
-        <source>Copy &amp;URL</source>
-        <translation>复制URL(&amp;U)</translation>
-    </message>
-    <message>
-        <source>Bookmark options.</source>
-        <translation>书签选项</translation>
-    </message>
-    <message>
-        <source>Open in &amp;Editor</source>
-        <translation>在编辑器中打开(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Reveal in &amp;Binder</source>
-        <translation>在活页夹中显示(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Create a new document and add it as a bookmark.</source>
-        <translation>创建一个新的文档并将其添加为书签</translation>
-    </message>
-    <message>
-        <source>Remove selected bookmark</source>
-        <translation>删除选定的书签</translation>
-    </message>
-    <message>
-        <source>Open as &amp;Quick Reference</source>
-        <translation>打开为快速参考(&amp;Q)</translation>
-    </message>
-    <message>
-        <source>Open in &amp;Current Editor</source>
-        <translation>打开于当前编辑器内(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Open &amp;File Location</source>
-        <translation>打开文件位置(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Add &amp;Internal Bookmark...</source>
-        <translation>添加内部书签(&amp;I)...</translation>
-    </message>
-    <message>
-        <source>Add &amp;Internal Bookmark</source>
-        <translation>添加内部书签(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Add &amp;External Bookmark</source>
-        <translation>添加外部书签(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Bookmark</source>
-        <translation>编辑书签(&amp;E)</translation>
-    </message>
-</context>
-<context>
     <name>SCRInspectorNotes</name>
     <message>
         <source>Notes</source>
         <translation>笔记</translation>
-    </message>
-</context>
-<context>
-    <name>SCRQuickReferenceWidget</name>
-    <message>
-        <source>Notes</source>
-        <translation>笔记</translation>
-    </message>
-    <message>
-        <source>Synopsis</source>
-        <translation>概要</translation>
-    </message>
-    <message>
-        <source>No Split</source>
-        <translation>不拆分</translation>
-    </message>
-    <message>
-        <source>Vertical Split</source>
-        <translation>垂直拆分</translation>
-    </message>
-    <message>
-        <source>Quick Reference</source>
-        <translation>快速参考</translation>
-    </message>
-    <message>
-        <source>Editor Only</source>
-        <translation>仅编辑器</translation>
-    </message>
-    <message>
-        <source>Custom Metadata</source>
-        <translation>自定义元数据</translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation>书签</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <translation>图片</translation>
-    </message>
-    <message>
-        <source>Format &amp;Bar</source>
-        <translation>格式栏(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;Inspector</source>
-        <translation>检查器(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Comment/Footnotes</source>
-        <translation>批注/脚注</translation>
-    </message>
-    <message>
-        <source>Take &amp;Snapshot</source>
-        <translation>拍摄快照(&amp;S)</translation>
-    </message>
-    <message>
-        <source>Keywords</source>
-        <translation>关键字</translation>
-    </message>
-    <message>
-        <source>Format Toolbar</source>
-        <translation>格式工具栏</translation>
-    </message>
-    <message>
-        <source>HorizontalSplit</source>
-        <translation>水平拆分</translation>
-    </message>
-    <message>
-        <source>Horizontal Split</source>
-        <translation>水平拆分</translation>
-    </message>
-    <message>
-        <source>Re&amp;veal in Binder</source>
-        <translation>在活页夹中显示(&amp;V)</translation>
-    </message>
-    <message>
-        <source>O&amp;pen</source>
-        <translation>打开(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -25984,7 +25993,7 @@ Error:
     <name>SCRCompileFormatListWidget</name>
     <message>
         <source>Failed importing compile format.</source>
-        <translation>导入编译格式失败。</translation>
+        <translation>导入编纂格式失败。</translation>
     </message>
     <message>
         <source>Scrivener Formats</source>
@@ -26012,11 +26021,11 @@ Error:
     </message>
     <message>
         <source>Import Compile Format</source>
-        <translation>导入编译格式</translation>
+        <translation>导入编纂格式</translation>
     </message>
     <message>
         <source>Export Compile Format</source>
-        <translation>输出编译格式</translation>
+        <translation>输出编纂格式</translation>
     </message>
     <message>
         <source>The &quot;%1&quot; format cannot be edited because it is built into Scrivener. Would you like to create a duplicate of the format that you can edit?</source>
@@ -26040,7 +26049,7 @@ Error:
     </message>
     <message>
         <source>Scrivener Compiler</source>
-        <translation>Scrivener编译器</translation>
+        <translation>Scrivener编纂器</translation>
     </message>
     <message>
         <source>&amp;My Formats</source>
@@ -26060,7 +26069,7 @@ Error:
     </message>
     <message>
         <source>Failed exporting compile format. Please, ensure that you have enough space and write previliges to your writing location.</source>
-        <translation>导出编译格式失败。请确保你有足够的空间，并将previliges写到你的写作位置。</translation>
+        <translation>导出编纂格式失败。请确保你有足够的空间，并将previliges写到你的写作位置。</translation>
     </message>
     <message>
         <source>Export Format...</source>
@@ -26351,7 +26360,7 @@ Please, try again later or contact us at %3 with the above code, so we get you u
     </message>
     <message>
         <source>Include revision colors from Preferences</source>
-        <translation>从首选项中包括修订颜色</translation>
+        <translation>从偏好中包括修订颜色</translation>
     </message>
     <message>
         <source>Use default Final Draft screenplay elements</source>
@@ -26585,7 +26594,7 @@ Media files can be imported inside the %2 folder.</source>
     </message>
     <message>
         <source>Include in Compile</source>
-        <translation>包含在编译中</translation>
+        <translation>包含在编纂中</translation>
     </message>
     <message>
         <source>Structure-Based</source>
@@ -26998,7 +27007,7 @@ The search will then be available as a collection tab
     </message>
     <message>
         <source>Flatten footnotes and comments into regular text</source>
-        <translation>将脚注和批注平铺到普通文本中</translation>
+        <translation>将脚注和批注转换为普通文本</translation>
     </message>
     <message>
         <source>Ensure hyperlinks are colored and underlined</source>
@@ -27249,7 +27258,7 @@ Not such directory:
     </message>
     <message>
         <source>Include in Compile</source>
-        <translation>包括到编译</translation>
+        <translation>包括到编纂</translation>
     </message>
 </context>
 <context>
@@ -27274,7 +27283,7 @@ Not such directory:
     </message>
     <message>
         <source>The selected file is not a valid Scrivener v1 compile preset.</source>
-        <translation>所选文件不是有效的Scrivener v1编译预设。</translation>
+        <translation>所选文件不是有效的Scrivener v1编纂预设。</translation>
     </message>
     <message>
         <source>Delete Scrivener v1 Preset</source>
@@ -27282,7 +27291,7 @@ Not such directory:
     </message>
     <message>
         <source>Scrivener v1 Compile Presets</source>
-        <translation>Scrivener v1 编译预置</translation>
+        <translation>Scrivener v1 编纂预置</translation>
     </message>
     <message>
         <source>Scrivener v1 Project Presets</source>
@@ -27294,7 +27303,7 @@ Not such directory:
     </message>
     <message>
         <source>The selected Scrivener 1 Compile preset will be deleted from the disk. This action cannot be undone.</source>
-        <translation>所选的Scrivener 1编译预设将从磁盘中删除。该动作不可撤消。</translation>
+        <translation>所选的Scrivener 1编纂预设将从磁盘中删除。该动作不可撤消。</translation>
     </message>
     <message>
         <source>Shared Scrivener v1 Presets</source>
@@ -27306,7 +27315,7 @@ Not such directory:
     </message>
     <message>
         <source>Import Scrivener v1 Compile Preset</source>
-        <translation>导入Scrivener v1 编译预设</translation>
+        <translation>导入Scrivener v1 编纂预设</translation>
     </message>
     <message>
         <source>&amp;Import</source>
@@ -27314,7 +27323,7 @@ Not such directory:
     </message>
     <message>
         <source>Scrivener v1 Compile Preset</source>
-        <translation>Scrivener v1 编译预设</translation>
+        <translation>Scrivener v1 编纂预设</translation>
     </message>
     <message>
         <source>Import &amp;Other...</source>
@@ -27322,7 +27331,7 @@ Not such directory:
     </message>
     <message>
         <source>Please select a Scrivener v1 compile preset to import.</source>
-        <translation>请选择一个Scrivener v1编译预设来导入。</translation>
+        <translation>请选择一个Scrivener v1编纂预设来导入。</translation>
     </message>
     <message>
         <source>Scrivener 1 Project Presets</source>
@@ -27702,7 +27711,7 @@ Error: %2</source>
     </message>
     <message>
         <source>Any metadata fields supplied by the project&apos;s compile settings will be inserted here.</source>
-        <translation>由项目的编译设置提供的任何元数据字段将被插入这里。</translation>
+        <translation>由项目的编纂设置提供的任何元数据字段将被插入这里。</translation>
     </message>
 </context>
 <context>
@@ -27798,7 +27807,7 @@ Please report this to %1.</source>
     </message>
     <message>
         <source>Suffix enclosing markers:</source>
-        <translation>后缀包围标记:</translation>
+        <translation>后缀容器标记:</translation>
     </message>
     <message>
         <source>Update titles in document links with prefix and suffix settings</source>
@@ -28217,7 +28226,7 @@ Shift+Enter表示换行
     </message>
     <message>
         <source>Single Return</source>
-        <translation>单回车</translation>
+        <translation>仅换行</translation>
     </message>
 </context>
 <context>
@@ -28232,7 +28241,7 @@ Shift+Enter表示换行
     </message>
     <message>
         <source>Merged documents</source>
-        <translation>合并的文档</translation>
+        <translation>合并的文档间</translation>
     </message>
     <message>
         <source>Empty Line</source>
@@ -28240,7 +28249,7 @@ Shift+Enter表示换行
     </message>
     <message>
         <source>Feature</source>
-        <translation>特点</translation>
+        <translation>特性</translation>
     </message>
     <message>
         <source>Custom Separator</source>
@@ -28252,19 +28261,19 @@ Shift+Enter表示换行
     </message>
     <message>
         <source>Scratchpad notes</source>
-        <translation>便笺笔记</translation>
+        <translation>便笺</translation>
     </message>
     <message>
         <source>Unknown feature</source>
-        <translation>不明特征</translation>
+        <translation>未知特性</translation>
     </message>
     <message>
         <source>Append selection</source>
-        <translation>追加选择</translation>
+        <translation>追加的选定内容前</translation>
     </message>
     <message>
         <source>Single Return</source>
-        <translation>单回车</translation>
+        <translation>仅换行</translation>
     </message>
 </context>
 <context>
@@ -28339,7 +28348,7 @@ Shift+Enter表示换行
     </message>
     <message>
         <source>Save Compile Settings</source>
-        <translation>保存编译设置</translation>
+        <translation>保存编纂设置</translation>
     </message>
     <message>
         <source>Preset name cannot be empty.</source>
@@ -28347,7 +28356,7 @@ Shift+Enter表示换行
     </message>
     <message>
         <source>Enter a name for these compile settings:</source>
-        <translation>为这些编译设置输入一个名称:</translation>
+        <translation>为这些编纂设置输入一个名称:</translation>
     </message>
     <message>
         <source>These settings will be saved in the folder
@@ -28441,6 +28450,13 @@ at: &apos;%1&apos;</source>
     <message>
         <source>Alignment</source>
         <translation>对齐</translation>
+    </message>
+</context>
+<context>
+    <name>SCRDocumentIcons1</name>
+    <message>
+        <source>Pencil</source>
+        <translation>铅笔</translation>
     </message>
 </context>
 <context>
@@ -28569,7 +28585,7 @@ at: &apos;%1&apos;</source>
     <name>SCRTooltipPopup</name>
     <message>
         <source>If the title entered here matches the title of one of the compiled documents, the document will be used as the contents page. (This way you can create custom contents pages using document links.) If the entered title does not match any documents, a contents page will be automatically generated with this title at the top and containing an entry for every document that is separated by a page break.</source>
-        <translation>如果此处输入的标题与已编译文档之一的标题匹配，则该文档将用作目录页。(通过这种方式，您可以使用文档链接创建自定义目录页。)如果输入的标题与任何文档都不匹配，则系统会自动生成一个目录页，使用该标题作为顶部标题，并包含每个通过分页符分隔的文档。</translation>
+        <translation>如果此处输入的标题与已编纂文档之一的标题匹配，则该文档将用作目录页。(通过这种方式，您可以使用文档链接创建自定义目录页。)如果输入的标题与任何文档都不匹配，则系统会自动生成一个目录页，使用该标题作为顶部标题，并包含每个通过分页符分隔的文档。</translation>
     </message>
     <message>
         <source>Tooltip</source>
@@ -28768,7 +28784,7 @@ at: &apos;%1&apos;</source>
     <name>SCRFileUtil</name>
     <message>
         <source>File does not exist: &quot;%1&quot;</source>
-        <translation>文件不存在。&quot;%1&quot;</translation>
+        <translation>文件不存在: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -28815,7 +28831,7 @@ at: &apos;%1&apos;</source>
     <name>SCRCompileReplacements</name>
     <message>
         <source>Set words and phrases to be replaced during compile.</source>
-        <translation>设置在编译时要替换的词语和短语。</translation>
+        <translation>设置在编纂时要替换的词语和短语。</translation>
     </message>
     <message>
         <source>Replacements</source>
@@ -28883,7 +28899,7 @@ at: &apos;%1&apos;</source>
     <name>SCROpenInTargetButton</name>
     <message>
         <source>Automatically open selection in other editor or Copyholder(second click).</source>
-        <translation>在另一个编辑器或校对助手中自动打开选择（第二次点击）。</translation>
+        <translation>在另一个编辑器或校对助手(第二次点击)中自动打开选择内容。</translation>
     </message>
 </context>
 <context>
